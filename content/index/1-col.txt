@@ -1,0 +1,40 @@
+page_description: A family of resources for writing (about) music with LilyPond and LaTeX
+-
+title: Home
+-
+keywords:lilypond,latex,engraving,notation
+-
+content:
+This is the home of <span class="OLL">openLilyLib</span>, a family of resources for people interested in engraving beautiful music with [LilyPond](http://www.lilypond.org) and typesetting beautiful texts about music with [LaTeX](http://www.latex-project.org/).
+It was initiated by a group of LilyPond users who are enthusiastic with Free Software and want to share their personal LilyPond and LaTeX 'toolboxes'.
+
+<p class="box">
+<span class="OLL">openLilyLib</span> or <span class="OLL">OLLib</span> is the core of the project.
+It is a toolbox library that extends LilyPond with usability as its main focus.
+One key concept of <span class="OLL">openLilyLib</span> is its extensive documentation.
+This is intended not only to allow the usage of the library but to serve as a resource to get a deeper understanding of LilyPond.<br />
+<a href="?/OLLib">Read more ...</a>
+</p>
+
+<p class="box">
+The <strong>Tutorials</strong> section will contain a (hopefully growing) number of tutorials on specific topics of engraving scores with LilyPond.
+They range from short HowTos to full-fledged tutorials.<br />
+<a href="?/tutorials">Read more ...</a>
+</p>
+
+<p class="box">
+<strong>lilyglyphs</strong> is a LaTeX package that allows to use LilyPond's notational elements as normal text objets in (Xe)LaTeX documents.<br />
+<a href="?/lilyglyphs">Read more ...</a>
+</p>
+
+<p class="box">
+<strong>musicexamples</strong> is a LaTeX package that manages music examples.
+It provides floating and non-floating environments and commands to print music examples with one or more systems as well as full-page examples (with robust support for examples starting on odd/even pages).
+All example types share the same counter and are assembled in one <code>\listofmusicexamples</code>.<br />
+<a href="?/musicexamples">Read more ...</a>
+</p>
+
+The material is not ready for regular file releases, so please regard this page as a placeholder for now.
+The original project page is on [sourceforge.net](https://sourceforge.net/projects/openlilylib/).
+There you can get access to Tickets, Discussion and the source code.
+If you're interested in any aspect of <span class="OLL">openLilyLib</span> don't hesitate to contact us through [info@openlilylib.org](mailto:info@openlilylib.org).

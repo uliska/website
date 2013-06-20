@@ -1,0 +1,11 @@
+title:lilyglyphs
+-
+keywords:lilypond,latex,notation,typesetting
+-
+content:
+<span class="XMP">lilyglyphs</span> is a package that allows to use (virtually any) notational element from LilyPond as a normal element in the continuous text of (Xe)LaTeX documents.
+Glyphs from LilyPond's Emmentaler music font can be accessed through predefined commands like <code>\clefG</code> (for a G clef) or directly through the glyph name, like <code>\lilyGlyph{scripts.ufermata}</code>.
+Other symbols which LilyPond draws itself are made accessible through pdf image files.
+Python scripts have been provided to streamline the generation of these pdf images, so it has become simple to extend the library of predefined commands.
+
+Different from other approaches we know of <span class="XMP">lilyglyphs</span> glyphs scale well with the surrounding font size.

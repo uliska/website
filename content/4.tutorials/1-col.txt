@@ -1,0 +1,32 @@
+title:Tutorials
+-
+content:
+While LilyPond has extensive documentation that is really excellent compared to many other open source software packages there are still situations where new and even advanced users would be glad about some more elaborate explanations.
+The documentation is mostly a *reference* and therefore doesn't take too much time to gently lead the user through and into the key concepts.
+This is where our tutorials strive to chime in.
+They concentrate on one single topic each, and can afford to dwell on that as long as its author considers appropriate.
+
+We start with very little material, have some plans for extension already and really hope to get many contributions from the community.
+One idea is that anybody who has just mastered an issue (with the help of the community) could write the tutorial that would have helped him to master that issue.
+
+The initial state is the following:
+
+- **Tackling complex tasks** *(Urs Liska)*  
+This tutorial has been already published and is still accessible at [http://lilypond.ursliska.de/notensatz/lilypond-tutorials/tackle-complex-tasks.html](http://lilypond.ursliska.de/notensatz/lilypond-tutorials/tackle-complex-tasks.html).
+It will be converted to our consistent book format and be made available as a pdf document soon.
+- **Orchestral Scores with LilyPond** *(Antonio Gervasoni)*  
+Antonio's announcement to write this tutorial actually tipped the scale to give this project the form it now has got.
+It will be an in-depth discussion of his learning curve to manage large-scale score projects with LilyPond.
+- **Writing (about) Music with Plain-text Based Tools** *(Urs Liska)*
+This paper about work-flows based on plain-text based tools (LaTeX, LilyPond, Markdown, Git) will be written on the occasion of a university presentation of these concepts.
+
+A few further plans/suggestions/promises include:
+
+- **Setting Up Modular File Structures**
+- **Versioning LilyPond Input Files with Git**
+- **Complex Transpositions**
+- **Reusing/Redefining Music Variables**
+- **Managing Headers in Multi-Movement Scores**
+- **Efficiently Handle Unison/Diviso Situations**
+
+As the collection will grow, we may consider tailoring the contributions towards a coherent book, but for now we will simply regard it as a collection of independent texts.
