@@ -13,25 +13,25 @@ It was initiated by a group of LilyPond users who are enthusiastic with Free Sof
 It is a toolbox library that extends LilyPond with usability as its main focus.
 One key concept of <span class="OLL">openLilyLib</span> is its extensive documentation.
 This is intended not only to allow the usage of the library but to serve as a resource to get a deeper understanding of LilyPond.<br />
-<a href="?/OLLib">Read more ...</a>
+<a href="OLLib">Read more ...</a>
 </p>
 
 <p class="box">
 The <strong>Tutorials</strong> section will contain a (hopefully growing) number of tutorials on specific topics of engraving scores with LilyPond.
 They range from short HowTos to full-fledged tutorials.<br />
-<a href="?/tutorials">Read more ...</a>
+<a href="tutorials">Read more ...</a>
 </p>
 
 <p class="box">
 <strong>lilyglyphs</strong> is a LaTeX package that allows to use LilyPond's notational elements as normal text objets in (Xe)LaTeX documents.<br />
-<a href="?/lilyglyphs">Read more ...</a>
+<a href="lilyglyphs">Read more ...</a>
 </p>
 
 <p class="box">
 <strong>musicexamples</strong> is a LaTeX package that manages music examples.
 It provides floating and non-floating environments and commands to print music examples with one or more systems as well as full-page examples (with robust support for examples starting on odd/even pages).
 All example types share the same counter and are assembled in one <code>\listofmusicexamples</code>.<br />
-<a href="?/musicexamples">Read more ...</a>
+<a href="musicexamples">Read more ...</a>
 </p>
 
 The material is not ready for regular file releases, so please regard this page as a placeholder for now.
