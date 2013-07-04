@@ -1,0 +1,27 @@
+title:lilypond-doc
+-
+content:
+<span class="OLL">lilypond-doc</span> is actually a pair of two related projects that deal with documenting LilyPond files: an API documentation scheme and a strong support for annotating scores.
+Currently it has the status of a draft, but as it is urgently needed for our own projects we expect to show progress soon.
+
+The API part will define a syntax to document LilyPond source files similar to auto-documenting tools for programming languages.
+A Python script can then be used to generate documentation from the source files and output it in several formats.
+It is planned to be developed as a library so <span class="OLL">lilypond-doc</span> can be used as a standalone program or be used by independent LilyPond editors, e. g. for their autocompletion features or to provide tooltips with function documentation.
+In particular we intend to integrate such functionality with [Frescobaldi](http://www.frescobaldi.org), our LilyPond editor of choice.
+
+The heart of the musical annotation aspect is a new `\annotate` function that can be used to insert any kind of comments in source files.
+Comment types include todo items, technical questions, philological questions or critical remarks (and custom types that can be defined ad hoc).
+When the LilyPond file is compiled the annotations are processed to 
+
+- insert visual annotations in the score
+- highlight commented items
+- print out annotations to the console
+- print out annotations to an intermediate external file
+
+The idea behind it is to provide improved workflows for developing scores, collaborative workflows in particular, and to generate several types of documentation directly from the source files.
+Items in the output files are linked to the corresponding place in the source code so it is possible to generate todo lists and other lists of editorial discussion and jump right into the editor to work on the issues.
+And one of the major goals is to generate entries that can directly be used in critical reports, enabling editors to completely prepare a critical edition *within the score*.  
+We intend to integrate an interface that allows to comfortably insert and edit annotations in Frescobaldi.
+
+As mentioned this is a draft so far but the `\annotate` function will soon be ready to be at least inserted in scores.
+You may follow or even participate in the discussion on the project's [Wiki page](https://github.com/openlilylib/lilypond-doc/wiki) or inspect its [GitHub repository](https://github.com/openlilylib/lilypond-doc).
