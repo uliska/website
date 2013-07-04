@@ -3,45 +3,53 @@ title:Getting Involved
 content:
 ## Getting Involved with <span class="OLL">openLilyLib</span>
 
+I think <span class="OLL">openLilyLib</span> can become a valuable resource for anyone interested in producing musical documents, be it scores or texts, and I'm happy having set up this website to assemble the efforts.
+But as it turned out the project became *considerably* more extensive than expected, and I could *really* use any form and amount of assistance.
+Therefore I ask *anybody* interested in one or more of the topics presented here to consider joining in one way or the other.
+
 There are several ways you can get involved and help developing <span class="OLL">openLilyLib</span>.  
-The first and most "natural" way is to actually *use* our software and documents and provide feedback through [sourceforge Tickets](http://sourceforge.net/p/openlilylib/tickets/) or [sourceforge Discussion](http://sourceforge.net/p/openlilylib/discussion/).
+The first and most "natural" way is to actually *use* the software and documents and provide feedback through
+the different [issue trackers](https://github.com/openlilylib) at GitHub or the [openlilylib-user](https://lists.sourceforge.net/lists/listinfo/openlilylib-user) mailing list.
 
 If you want to contribute more than just feedback then please get in touch with us directly by sending us an email to [info@openlilylib.org](mailto:info@openlilylib.org).
-We can always use assistance, be it just do increase the number of people who are doing things or to enhance the spectrum of skills to help us solving problems like those for which we have open Tickets.  
-There are general topics like the maintenance of this web site, maintenance of file releases, improving the documentation etc., but there are also specific tasks for our sub-projects, as can be seen in the following &ndash; incomplete &ndash; summary.
+Any help is appreciated, but below you'll find an &ndash; incomplete &ndash; summary of specific topics.
+Apart from that you may get inspired by skimming through the issue trackers.
 
 <p class="box">
-<strong>Tutorials</strong><br />
-If you think you can provide some insight on any LilyPond related issue, please don't hesitate to write a tutorial.
+<span class="OLL">tutorials</span><br />
+If you think you can provide some insight on any LilyPond related issue, please don't hesitate to write a tutorial or a blog post about it.
 We are equally happy about a one-page HowTo or a thirty-page essay.
 Our tutorials are rendered in LaTeX, but if the contribution is interesting we will surely aid you with or can even do the conversion from word processor documents.
-(Of course any further changes to the document (by you or other contributors) will have to be made in the LaTeX document.)
 If you can provide an already-finished document feel free to send it to us, in other cases it is recommended to get in touch before actually starting to write your document.
 </p>
 
 <p class="box">
-<strong><span class="OLL">openLilyLib</span></strong><br />
-If you feel that you have ideas or existing functions that are in line with <span class="OLL">openLilyLib's</span> focus we are happy about your contribution.
-Probably you will know for yourself when you qualify as a contributor &ndash; as a general rule of thumb you will probably have a good understanding on how to structure LilyPond files (with [possibly cascading] include structures) and/or be able to write Scheme functions.<br />
-There may be always need for documentation authors, as the borders between strict documentation and the tutorials is quite permeable.
+<span class="OLL">oll-lib</span><br />
+If you feel that you have ideas or existing functions that are in line with <span class="OLL">oll-lib</span>'s focus we are happy about your contribution.
+Currently there isn't much content in the library so you can't probably get the idea about its focus, though.
 </p>
 
 <p class="box">
-<strong>lilyglyphs</strong><br />
-The most natural way to assist in the development of <code>lilyglyphs</code> is to provide new predefined commands.
-While the package is already quite usable a more complete coverage with predefined commands is highly desirable.
-The original package developer isn't able to do much more than add commands he actually needs for his own writing, so this is actually a perfect candidate for "crowd developing".<br />
+<span class="OLL">lilypond-doc</span><br />
+If you are experienced and/or interested in API documentation like with <code>javadoc</code> or comparable tools you are invited to join discussion about the basic design of that package.
+Please refer to the <a href="https://github.com/openlilylib/lilypond-doc/wiki">Wiki</a> page.
+Later we'll implement the library/application with Python.<br />
+For the development of the <code>\annotate</code> function I could really use the help of someone with considerable Scheme experience. 
+This part will also be developed with Python later.
+</p>
+
+<p class="box">
+<span class="OLL">lilyglyphs</span><br />
+The most natural way to assist in the development of <code>lilyglyphs</code> is to provide new predefined commands in order to increase the package's coverage.
+I can't to do much more than add commands I actually need for my own writing, so this is actually a perfect candidate for "crowd developing".<br />
 On the other hand there are still some more technical issues on the LaTeX and Python side where assistance would be highly appreciated.
 </p>
 
 <p class="box">
 <strong>musicexamples</strong><br />
 Different from the other sub-projects <code>musicexamples</code> is actually aiming for a somewhat finished "1.0" release.
-The LaTeX package is nearly finished (except for some open Tickets), but we could use some more assistance in the development of the LilyPond part.
+The LaTeX package is nearly finished (except for some open issues), but I could use some more assistance in the development of the LilyPond part.
 An experienced Scheme coder would be welcome to help with writing functions to conditionally compile scores and do after-compilation cleanup.<br />
 Finally there will be some Python scripts that are needed to manage the LilyPond generated scores and keep them up to date.
 Work on this hasn't begun yet, any assistance would be highly appreciated.
 </p>
-Documentation is crucial to <span class="OLL">openLilyLib</span>, so any new contribution should be documented along with its release. 
-Our documentation is written in LaTeX, so it would be highly appreciated if you were able to work with our documentation files with LaTeX and Git.
-But if you don't feel able to do so but have otherwise interesting contributions to offer, we'll surely find a way to manage that too.
