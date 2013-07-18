@@ -22,9 +22,8 @@ The items not linking anywhere are tutorials that aren't published yet, or that 
 
 #### General Topics
 
-- **Plain Text Files in Music** *(Urs Liska)*  
+- **[Plain Text Files in Music](http://lilypondblog.org/2013/07/plain-text-files-in-music/)** *(Urs Liska)*  
   Extensive essay on the power of plain text based workflows for publishing musical documents.  
-  (In the queue for publication)
 
 #### Workflows
 
