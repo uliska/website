@@ -50,7 +50,7 @@ It will be an in-depth discussion of his learning curve to manage large-scale sc
   The occasional need for enharmonic change  
   [Part 2](http://lilypondblog.org/2013/07/transposition-with-enharmonic-changes-part-2/) &mdash;
   Factoring out common code  
-  Part 3 &mdash; Creating a generic solution  
+  [Part 3](http://lilypondblog.org/2013/07/transposition-with-enharmonic-changes-part-3/) &mdash; Creating a generic solution  
   Part 4 &mdash; Some corner cases and pitfalls
 - [**Horizontally Aligning Full Measure Rests**](http://lilypondblog.org/2013/06/horizontally-aligning-full-measure-rests/) *(Janek Warchoł)*
 - **Reusing/Redefining Music Variables**
