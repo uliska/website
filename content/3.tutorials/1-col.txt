@@ -1,7 +1,7 @@
 title:tutorials
 -
 content:
-While LilyPond has extensive documentation that is really excellent compared to many other open source software packages there are still situations where new and even advanced users would be glad about some more elaborate explanations.
+While LilyPond has extensive [documentation](http://www.lilypond.org/manuals.html) that is really excellent compared to many other open source software packages there are still situations where new and even advanced users would be glad about some more elaborate explanations.
 Apart from the [Learning Manual](http://www.lilypond.org/doc/v2.16/Documentation/learning/index.html) the documentation is mostly a *reference* and obviously somewhat hard to get used to for beginners.
 This is where our tutorials strive to chime in.
 They concentrate on one single topic each, and can afford to dwell on that as long as its author considers appropriate.
@@ -27,8 +27,7 @@ The items not linking anywhere are tutorials that aren't published yet, or that 
 
 #### Workflows
 
-- **Compiling Songbooks with LaTeX and LilyPond** *(Jeremy Boor)*  
-  (In the queue for publication)
+- [**Compiling Songbooks with LaTeX and LilyPond**](http://lilypondblog.org/2013/07/creating-songbooks-with-lilypond-and-latex/) *(Jeremy Boor)*  
 - **Orchestral Scores with LilyPond** *(Antonio Gervasoni)*  
 Antonio's announcement to write this tutorial actually tipped the scale to give this project the form it now has got.
 It will be an in-depth discussion of his learning curve to manage large-scale score projects with LilyPond.
@@ -45,6 +44,7 @@ It will be an in-depth discussion of his learning curve to manage large-scale sc
 
 #### Specific Topics
 
+- [**Voice Contexts in Temporary Polyphonic Section**](http://lilypondblog.org/2013/07/voice-contexts-in-temporary-polyphonic-sections/) *(Urs Liska)*
 - **Transposition with Enharmonic Changes** *(Urs Liska*)  
   [Part 1](http://lilypondblog.org/2013/06/transposition-with-enharmonic-changes-part-1/) &mdash;
   The occasional need for enharmonic change  
