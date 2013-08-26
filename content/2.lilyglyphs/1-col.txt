@@ -3,7 +3,7 @@ title:lilyglyphs
 keywords:lilypond,latex,notation,typesetting
 -
 content:
-<span class="OLL">lilyglyphs</span> is a package that allows to use (virtually any) notational item from LilyPond as a character in the continuous text of (Xe)LaTeX documents.
+<span class="OLL">lilyglyphs</span> is a package that lets you use (virtually any) notational item from the [LilyPond](http://lilypond.org) notation software as a character in the continuous text of (Xe/Lua)LaTeX documents.
 When I needed that functionality myself I didn't find any reasonable package so I decided to ‘roll my own’. 
 The result is probably the most versatile solution to insert musical elements in text documents you can find today, and thanks to LilyPond it offers exceptional output quality.
 Different from other approaches I know of <span class="OLL">lilyglyphs</span> glyphs scale well with the surrounding font size.
@@ -12,7 +12,10 @@ Glyphs from LilyPond's Emmentaler music font can be accessed through predefined 
 Other symbols which LilyPond draws itself are made accessible through pdf image files.
 Python scripts have been provided to streamline the generation of these pdf images, so it has become simple to extend the library of predefined commands.
 
-Development has proceeded to a considerably stable version 0.2, but due to some restructuring there is no binary release available at the moment.
-You may read the [Manual v0.2](@root_path/public/manuals/lilyglyphs_0-2.pdf) and you can get the package through its [GitHub repository](https://github.com/openlilylib/lilyglyphs).
-To fully use the package through the Git repository you will need Python and LilyPond installed to generate the image based glyphs.
-Without this you can use the package but trying to use one of the image based commands will result in an error.
+Development has proceeded to a considerably stable version 0.2, but due to some project restructuring there is no binary release available at the moment.
+Currently we are working on settling version 0.2.1 which will then be uploaded to CTAN.
+For now you may read the [v0.2 manual](@root_path/public/manuals/lilyglyphs_0-2.pdf) and you can get the package through its [GitHub repository](https://github.com/openlilylib/lilyglyphs).
+
+You can use the package as it is.
+Extending it with your own predefined commands is simplified if you have Python 2 installed on your machine (you don't need any Python knowledge, though).
+To add image based commands you also need the (free) LilyPond software.
