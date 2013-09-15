@@ -12,9 +12,9 @@ Glyphs from LilyPond's Emmentaler music font can be accessed through predefined 
 Other symbols which LilyPond draws itself are made accessible through pdf image files.
 Python scripts have been provided to streamline the generation of these pdf images, so it has become simple to extend the library of predefined commands.
 
-Development has proceeded to a considerably stable version 0.2, but due to some project restructuring there is no binary release available at the moment.
-Currently we are working on settling version 0.2.1 which will then be uploaded to CTAN.
-For now you may read the [v0.2 manual](@root_path/public/manuals/lilyglyphs_0-2.pdf) and you can get the package through its [GitHub repository](https://github.com/openlilylib/lilyglyphs).
+We're very happy to have finally managed to release a first public version 0.2.1.
+Despite the low version number the package is already usable for production.
+You may download and read the [v0.2-1 manual](@root_path/public/manuals/lilyglyphs_0-2-1.pdf) from here, and you can get the package through its [GitHub repository](https://github.com/openlilylib/lilyglyphs).
 
 You can use the package as it is.
 Extending it with your own predefined commands is simplified if you have Python 2 installed on your machine (you don't need any Python knowledge, though).
