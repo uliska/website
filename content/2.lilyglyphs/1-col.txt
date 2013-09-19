@@ -23,7 +23,7 @@ To add image based commands you also need the (free) LilyPond software.
 
 The package is available through several channels:
 
-- CTAN: [http://www.ctan.org/tex-archive/macros/luatex/latex/lilyglyphs]()
+- CTAN: [http://www.ctan.org/tex-archive/macros/luatex/latex/lilyglyphs](http://www.ctan.org/tex-archive/macros/luatex/latex/lilyglyphs)
 - TeX distributions (you have to check if your distro already contains it)  
   For example you can get it from TeXLive2013 by running `tlmgr install lilyglyphs`
 - Development repository at GitHub: [https://github.com/openlilylib/lilyglyphs]()  
