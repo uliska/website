@@ -26,7 +26,7 @@ The package is available through several channels:
 - CTAN: [http://www.ctan.org/tex-archive/macros/luatex/latex/lilyglyphs](http://www.ctan.org/tex-archive/macros/luatex/latex/lilyglyphs)
 - TeX distributions (you have to check if your distro already contains it)  
   For example you can get it from TeXLive2013 by running `tlmgr install lilyglyphs`
-- Development repository at GitHub: [https://github.com/openlilylib/lilyglyphs]()  
+- Development repository at GitHub: [https://github.com/openlilylib/lilyglyphs](https://github.com/openlilylib/lilyglyphs)  
   Forking/cloning with Git is the recommended way to get the package because this will always be the most up-to-date version of the package, and it is the best way to contribute new commands.
 
 Before actually trying the package you may download and read the [v0.2.1 manual](@root_path/public/manuals/lilyglyphs_0-2-1.pdf).
