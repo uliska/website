@@ -7,9 +7,9 @@ It is located at openLilyLib's GitHub home (https://github.com/openlilylib)
 The web site is generated using the lightweight stacey Content Management System (http://www.staceyapp.com), which means that any content is to be added/updated through the text files below /content.
 For some starting hints from the original stacey.com README see below at the end of this document.
 
-The website itself isn't connected to the Git repository, so any changes should be first committed (preferably to `master`) and then uploaded/synchronized via ftp (you may ask for the login data).
-
-The changes should then immediately be visible on http://www.openlilylib.org.
+The website itself isn't connected to the Github repository but to a separate repository on the server.
+Unfortunately I (Urs) can't give access to that without giving complete access, therefore I'm the only
+one who can actually upload stuff to the website.
 
 # Stacey 2.3.0
 
