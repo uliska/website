@@ -1,0 +1,34 @@
+title:musicexamples
+-
+keywords:latex,music example,package,lilypond
+-
+project_name:musicexamples
+-
+current_release:0.2
+-
+current_path:@path
+-
+content:
+<span class="OLL">musicexamples</span> is a set of tools to manage musical examples in LaTeX documents.
+It was developed with scores in mind that are created using LilyPond, but it works equally well with any kind of image files.
+There are three parts to <span class="OLL">musicexamples</span>: a LaTeX package, LilyPond configuration files and Python scripts.
+
+The *LaTeX package* can be used as a standalone tool, without using the other two parts, and without even using LilyPond at all.
+It provides floating and non-floating environments to place examples in, and commands to print music examples with one or more systems as well as full-page examples.
+All example types share a common counter and can be listed in one contigious `\listofmusicexamples`.  
+Great care has been taken to sensibly deal with full-page examples starting on odd or even pages:
+Depending on the presence of the respective score files (tagged by file name) full-page examples start at the very next page or at the next odd/even page.  
+The package can work with pdf files created by LilyPond, with snippets created by <code>lilypond-book</code> or with any other image files that LaTeX can process.  
+Apart from a few wishes and minor bugs the LaTeX package is more or less finished and can already be used.
+
+The *LilyPond configuration files* are intended to simplify the generation of  examples with LilyPond.
+Configured by a few variables in the main `.ly` file they take care of the correct compilation and after-compilation cleanup to provide the right pdf file(s) to be used with the LaTeX package. 
+This part isn't quite ready yet.
+
+The *Python scripts* will be used to keep track of LilyPond-generated examples.
+This can be used to automatically recompile all changed LilyPond examples, for example after a change of layout configuration files. 
+Work on these has not begun yet &ndash; any assistance is highly welcome.
+
+As with the <span class="OLL">lilyglyphs</span> package development has reached a usable state but there is no binary release availably at the moment.
+You may read the [Manual v0.2](@root_path/public/manuals/musicexamples_0-2.pdf) and you can get the package through its [GitHub repository](https://github.com/openlilylib/musicexamples).
+

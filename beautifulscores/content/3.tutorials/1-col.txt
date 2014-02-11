@@ -1,0 +1,65 @@
+title:tutorials
+-
+content:
+While LilyPond has extensive [documentation](http://www.lilypond.org/manuals.html) that is really excellent compared to many other open source software packages there are still situations where new and even advanced users would be glad about some more elaborate explanations.
+Apart from the [Learning Manual](http://www.lilypond.org/doc/v2.16/Documentation/learning/index.html) the documentation is mostly a *reference* and obviously somewhat hard to get used to for beginners.
+This is where our tutorials strive to chime in.
+They concentrate on one single topic each, and can afford to dwell on that as long as its author considers appropriate.
+As the collection will grow, we may consider tailoring the contributions towards a coherent book, but for now we will simply regard it as a collection of independent texts.
+
+This is intended to be an open platform and we really welcome any contribution of articles, long or short.
+We hope to gather a substantial collection of knowlegde over time.
+Anybody who has mastered an issue with the help of the community is encouraged to give something back by contributing to this collection of resources.
+For example we would love to host the tutorial that would have helped you to master that particular issue without asking for help.
+
+Tutorials are delivered either as pdf files or as blog posts, and all of them are presented in the [tutorials](http://lilypondblog.org/category/tutorials/) category in the [Scores of Beauty](http://lilypondblog.org) LilyPond blog.
+
+---
+
+### Table of Contents:
+
+The items not linking anywhere are tutorials that aren't published yet, or that are plans/suggestions/promises.
+
+#### General Topics
+
+- **[Plain Text Files in Music](http://lilypondblog.org/2013/07/plain-text-files-in-music/)** *(Urs Liska)*  
+  Extensive essay on the power of plain text based workflows for publishing musical documents.  
+
+#### Workflows
+
+- [**Compiling Songbooks with LaTeX and LilyPond**](http://lilypondblog.org/2013/07/creating-songbooks-with-lilypond-and-latex/) *(Jeremy Boor)*  
+- **Orchestral Scores with LilyPond** *(Antonio Gervasoni)*  
+Antonio's announcement to write this tutorial actually tipped the scale to give this project the form it now has got.
+It will be an in-depth discussion of his learning curve to manage large-scale score projects with LilyPond.
+- **Setting Up Modular File Structures**
+- **Versioning LilyPond Input Files with Git**
+
+#### Mastering LilyPond
+
+- **Tackling complex tasks** *(Urs Liska)*  
+  This tutorial has been already published and is still accessible at  [http://lilypond.ursliska.de/notensatz/lilypond-tutorials/tackle-complex-tasks.html](http://lilypond.ursliska.de/notensatz/lilypond-tutorials/tackle-complex-tasks.html).
+  It will be converted to our consistent book format and be made available as a pdf document soon.
+- **Taking the Step to Modify the Default Appearance**
+- **Working with Stylesheets**
+
+#### Specific Topics
+
+- [**Voice Contexts in Temporary Polyphonic Section**](http://lilypondblog.org/2013/07/voice-contexts-in-temporary-polyphonic-sections/) *(Urs Liska)*
+- **Transposition with Enharmonic Changes** *(Urs Liska*)  
+  [Part 1](http://lilypondblog.org/2013/06/transposition-with-enharmonic-changes-part-1/) &mdash;
+  The occasional need for enharmonic change  
+  [Part 2](http://lilypondblog.org/2013/07/transposition-with-enharmonic-changes-part-2/) &mdash;
+  Factoring out common code  
+  [Part 3](http://lilypondblog.org/2013/07/transposition-with-enharmonic-changes-part-3/) &mdash;
+  Creating a generic solution  
+  Part 4 &mdash; Some corner cases and pitfalls
+- [**Horizontally Aligning Full Measure Rests**](http://lilypondblog.org/2013/06/horizontally-aligning-full-measure-rests/) *(Janek Warchoł)*
+- **Adding Ornamentations to Note Heads** (Advanced tutorial) *(Nicolas Sceaux)*  
+  [Part 1](http://lilypondblog.org/2013/08/adding-ornamentations-to-note-heads-part-1/) &mdash;
+  Introduction and a first, simple implementation  
+  Part 2 &mdash; Realizing various kinds of ornamentations  
+  Part 3 &mdash; Collision Handling and Spacing Issues
+- **Reusing/Redefining Music Variables**
+- **Managing Headers in Multi-Movement Scores**
+- **Efficiently Handle Unison/Diviso Situations**
+

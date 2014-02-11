@@ -1,0 +1,10 @@
+name: openLilyLib
+-
+profession: Open Source Library
+-
+email: <a href="mailto:info@openlilylib.org">info@openlilylib.org</a>
+-
+yaml:@root_path/css/yaml
+-
+css:@root_path/css
+-
