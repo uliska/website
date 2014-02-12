@@ -1,0 +1,31 @@
+title:Benefits
+-
+content:
+The list of benefits provided by plain text tools and workflows
+is rather long. Actually we can't imagine how we could ever have
+worked efficiently before that. We're confident that you'll find
+aspects relating to you, your working style or business requirements
+in the following list.
+
+- *Seamless collaboration*  
+Working together on the same files simultaneously -- without having to worry about stepping
+on each other's toes -- makes for very smooth workflows and improves overall quality
+through constant peer review by design.
+- *Long-term reliability*  
+Projects are self-documenting (through version control), and updating documents even after
+publication is a straightforward and transparent process, without the risk of compromising
+any existing work. This is particularly valuable for long-term projects like complete
+editions or other publication series.
+- *Integration of text and music*  
+The compilation of scores and textual parts into a contigious document happens in the
+shared data repository too, so the complete volume can be maintained in the
+same environment as the individual parts, without the need of passing around documents
+between different editors and tools.
+- *Flexibility*  
+Working environments can be fine-tuned to a remarkable degree. This comprises house
+style libraries, enforcment of typographical standards, data processing etc.
+- *Crowd Engraving*
+- *Joining the process*
+- *Specialists for specific needs*
+- *Individual solutions*
+- *Fair and transparent pricing*
