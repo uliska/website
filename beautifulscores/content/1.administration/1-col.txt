@@ -1,4 +1,4 @@
-title:Admin-Dummy
+title:Administration
 -
 content:
 I don't know how to name this page.
