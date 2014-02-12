@@ -2,7 +2,7 @@ name: beautifulScores
 -
 profession: Music Engraving Service
 -
-email: <a href="mailto:info@beautifulscores.com">info@beautifulscores.com</a>
+email: <a href="mailto:info@beautifulscores.net">info@beautifulscores.net</a>
 -
 yaml:@root_path/css/yaml
 -
