@@ -1,0 +1,10 @@
+title:Concepts
+-
+keywords:lilypond,latex,version control
+-
+content:
+Some fundamental information about the underlying concepts and tools:
+LilyPond, LaTeX, and Version Control.
+
+This should be no in-depth discussion but merely a primer, referring
+either to sub-pages or to external resources such as our blog posts. 
