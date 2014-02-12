@@ -1,8 +1,8 @@
-name: openLilyLib
+name: beautifulScores
 -
-profession: Open Source Library
+profession: Music Engraving Service
 -
-email: <a href="mailto:info@openlilylib.org">info@openlilylib.org</a>
+email: <a href="mailto:info@beautifulscores.net">info@beautifulscores.net</a>
 -
 yaml:@root_path/css/yaml
 -

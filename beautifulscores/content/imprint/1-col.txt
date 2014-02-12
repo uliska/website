@@ -1,7 +1,7 @@
 title:Imprint
 -
 content:
-As the domain www.openlilylib.org is owned by a German citizen the following imprint is mandatory:
+As the domain www.beautifulscores.net is owned by a German citizen the following imprint is mandatory:
 
 ### Impressum
 #### Angaben gemäß § 5 TMG
@@ -10,7 +10,7 @@ Urs Liska
 Glümerstr. 5  
 D-79102 Freiburg  
 +49 (0) 179 46 42 905  
-<a href="mailto:info@openlilylib.org">info@openlilylib.org</a>
+<a href="mailto:info@beautifulscores.net">info@beautifulscores.net</a>
 
 #### Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 Urs Liska  

@@ -1,0 +1,8 @@
+title:Administration
+-
+content:
+I don't know how to name this page.
+It should tell about the option to implement text based workflows
+for a customer's business. I.e. we analyze their tasks and goals
+and suggest new workflows and tools (actually what I did for the
+Webern edition).
