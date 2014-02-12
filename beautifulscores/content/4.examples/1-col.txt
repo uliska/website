@@ -3,4 +3,20 @@ title:Examples
 keywords:lilypond,stylesheets,engraving styles
 -
 content:
-## Stylistic Diversity of Our Engravings
+We have developed a set of stylesheets that can be simply
+applied to your music, giving it a beautiful, readable
+appearance out-of-the-box. Styles range from *classical* over
+*modern* and *jazz* to *fancy*.
+But we can also design a “house style” for you, which can go as
+far as modifying the used notation font to create an individual
+appearance.
+
+Another differenciation comes into play when you consider the
+level of attention to typographic detail. We can provide scores
+from default quality to minutely beautified works of art.
+If you are used to working with scores created with usual
+graphical tools you may not expect this to be possible, but
+LilyPond's notation meets the demands for most
+people and use cases short of publication out-of-the-box.
+This is something where you actually can save money if you just
+need performance material.
