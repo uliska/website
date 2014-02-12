@@ -1,4 +1,4 @@
-title:Contact-About Us
+title:About Us
 -
 keywords:beautifulscores,people
 -
