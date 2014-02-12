@@ -1,0 +1,13 @@
+title:Tools
+-
+content:
+Demonstrate a few of the specific tools we have developed:
+
+- Use of LaTeX with "datasets" and alternative layout
+- LilyPond Draft Mode and Layout Control Mode
+- `\annotate`
+- etc. ?
+
+These are more "pitch" examples than a thorough overview.  
+Maybe point out the option to tailor such solutions
+to the customer's needs.
