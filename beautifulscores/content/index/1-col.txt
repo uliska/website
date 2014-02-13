@@ -5,7 +5,8 @@ title: Home
 keywords:lilypond,latex,engraving,scholarly editions
 -
 content:
-**beautifulScores** is a group of music engravers offering innovative
+**beautifulScores**  
+is a group of music engravers offering innovative
 and unique services when it comes to typesetting scores or music books.
 We are committed to creating beautiful scores with that old-fashioned
 plate-engraved appearance that makes them so readable on the music stand.
