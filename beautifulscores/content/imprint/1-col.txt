@@ -40,8 +40,6 @@ Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend ent
 
 ###### Urheberrecht
 Das Urheberrecht der auf diesen Seiten zugänglich gemachten Werke (Texte, Abbildungen und ggfs. Software) liegt bei den jeweils namentlich genannten Autoren, bei Fehlen der entsprechenden Angaben beim Seitenbetreiber.  
-Soweit nicht im Einzelfall gesondert gekennzeichnet können sämtliche Inhalte im Rahmen der Creative Commons Lizenz Attribution-ShareAlike 3.0 Unported [(CC BY-SA 3.0)](http://creativecommons.org/licenses/by-sa/3.0/) verwendet werden.  
-Software, die auf dieser Seite zugänglich gemacht wird, unterliegt &ndash; soweit im Einzelfall nicht gesondert bezeichnet &ndash; der GNU General Public License 3.0 [(GPL)](http://www.gnu.org/licenses/gpl.html).
 
 Soweit die Inhalte auf dieser Seite nicht vom Betreiber oder anderen namentlich genannten Autoren erstellt wurden, werden die Urheberrechte Dritter beachtet. 
 Insbesondere werden Inhalte Dritter als solche gekennzeichnet. 
