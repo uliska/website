@@ -6,13 +6,14 @@
 }
 
 #header {
-	   background-color: #ddf;
+	   background-color: #cce;
 	   padding: 10px;
-	   color: #114;
+	   color: #000;
 }
 
 #page {
-    background-color: #eec;
+    background-color: #eef;
+    color: #003;
     padding:0;
     margin:10px;	
 }

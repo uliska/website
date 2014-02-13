@@ -24,7 +24,7 @@
 		/* (en|de) Bugfix:IE - collapsing horizontal margins */
 		position:relative;
 		line-height:1em;
-		background: #222;
+		background: #003;
 	}
 
 	.ym-hlist ul {
@@ -49,7 +49,7 @@
 	.ym-hlist ul li a,
 	.ym-hlist ul li strong {
 		background:transparent;
-		color:#cca;
+		color:#ccf;
 		display:block;
 		font-size:1em;
 		line-height: 2em;
@@ -63,8 +63,8 @@
 	.ym-hlist ul li a:focus,
 	.ym-hlist ul li a:hover,
 	.ym-hlist ul li a:active  {
-		color: #ffd;
-		background:#664;
+		color: #ddf;
+		background:#446;
 		background: rgba(255,255,255,.25);
 		-webkit-border-radius: 0.2em;
 		-moz-border-radius: 0.2em;
@@ -74,7 +74,7 @@
 	}
 
 	.ym-hlist ul li.active {
-		background:#664;
+		background:#446;
 		background: rgba(255,255,255,.3);
 		-webkit-border-radius: 0.2em;
 		-moz-border-radius: 0.2em;
