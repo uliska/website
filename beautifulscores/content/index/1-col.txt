@@ -19,8 +19,8 @@ music engraving and scholarly editing.
 Beautyfully produced scores and texts are our passion, and that's
 what we deliver. We produce scores for publication or as exceptionally
 readable performance material, also (scholarly) editions from
-manuscript, and books mixing text and music.  Read more about e few
-key features that make us stand apart on [Typesetting](@root_path/typesetting).
+manuscript, and books mixing text and music.  Read more about key
+features that make us stand apart on [Typesetting](@root_path/typesetting).
 
 
 **The Future For your Business**  
