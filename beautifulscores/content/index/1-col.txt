@@ -22,13 +22,25 @@ readable performance material, also (scholarly) editions from
 manuscript, and books mixing text and music.  Read more about key
 features that make us stand apart on [Typesetting](@root_path/typesetting).
 
+**Editing and Writing**  
+In addition to technical and aesthetical competence we can also provide
+musicological expertise for your projects.  You can get professional
+proof-reading or scholarly review, or we can even create critical
+editions from manuscript sources and write about it, so this is the
+one-stop shop for your engraving and editing needs.
+
+**Scalable Online Collaboration**  
+A key benefit of our toolchain is highly efficient
+online collaboration. The secret lies in the use of *version control*
+and *plain text based tools* making completely new workflows possible.
+These scale very well and we can distribute work among any number
+of contributors, either to speed up delivery or to tackle
+specific tasks.
 
 **The Future For your Business**  
-But we are much more than Yet Another Engraving Studio.  We are also
-experienced with innovative technology that can have tremenduous
-impact on your own editing and publication processes. The secret
-lies in the use of *version control* and *plain text based tools*
-which make completely new workflows possible.  If you're interested in
+But we are much more than Yet Another Engraving Studio.  Our
+innovative workflows can have tremenduous impact on your own
+editing and publication processes too. If you're interested in
 
 - *Long-term maintainability* of your publication projects,
 - *Seamless and flexible collaboration* between all partners,
