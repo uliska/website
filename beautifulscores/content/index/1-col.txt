@@ -6,6 +6,10 @@ keywords:lilypond,latex,engraving,scholarly editions
 -
 content:
 
+<div markdown="1" style="float:right;margin-left:1em;margin-bottom:1em">
+<img src="@root_path/public/images/fried-07-1-excerpt-small.png" />
+</div>
+
 **beautifulScores**  
 is a group of music engravers offering innovative
 and unique services when it comes to typesetting scores or music books.
