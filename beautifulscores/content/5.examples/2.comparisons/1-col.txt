@@ -3,10 +3,52 @@ title:Engraving Comparisons
 keywords:lilypond,automated engraving
 -
 content:
-Comparing Lily's default output with that of other programs
+### Comparing Default Output
 
-- Schoenberg opus 8,4  
-  compare old lily -> Finale 2008  
-  new lily -> Finale 2014
-- Godowsky *Winterwind*  
-  lily -> Sibelius 7
+To some it may seem pointless to compare the default output of
+different programs because that's not what you're after
+anyway.  But that completely misses the point.  It's exactly
+this quality of LilyPond's default output that makes it so
+tremenduously practical in daily use.  There are so many occasions
+and use cases where you simply don't have to touch the default
+output anymore after having entered the plain *content*.
+
+Have a look at LilyPond's following attempt at a piano reduction
+of an orchestral score by Arnold Schoenberg:
+
+
+**Add correct copyright notice**
+
+This example is clearly not publication ready.  But while you
+could bring it to that state with just a handful of careful tweaks
+the original state is already readable and playable, and it
+doesn't prevent you from doing scholarly editing or proof-reading.
+If that doesn't convince you then please look at what *Finale 2014*
+produced from the same entered music:
+
+- Finale version
+
+You wouldn't be able to play from that without first starting to
+drag everything around.
+
+Now to something different: Look at this complex piano score from
+Leopold Godowsky's free transcription of Chopin's “Winterwind”
+study:
+
+- Godowsky *Winterwind*, Sibelius version
+
+The editor had really to force himself not to start dragging around
+notes etc, because *Sibelius 7*'s output was barely readable at all:
+
+- LilyPond's result (TODO?) with comment (TODO)
+
+
+So, what's the deal with this issue?
+If you can't simply enter *music* but immediately have to fix
+shortcomings of your layout program this simply counts as
+unnecessary extra work you have to do (or pay for).  But maybe
+even more imporantly this *contaminates* your document right
+from the start because with WYSIWYG tools you'll usually never
+get your score back to a state of pure music entry, it will
+always contain obscure manual tweaks that you can't conveniently
+revert because the software is actually hiding them from you.
