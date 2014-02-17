@@ -1,0 +1,81 @@
+title:Typesetting
+-
+content:
+**Creating musical documents ...**  
+... is one of the key areas of a musical
+service provider.  Our offers in this field include:
+
+- Scores in *publication quality* or in a *default quality*
+  serving gracefully for most needs.
+- Performance material (for example for choirs and orchestras).
+- Transpositions (e.g. of songs).
+- Editions from manuscript (with scholarly standards upon request).
+- Books with text and music (songbooks and musicological books).
+
+
+**Score Engraving**  
+Our notation program of choice, [LilyPond](http://www.lilypond.org),
+provides exceptional engraving according to the ideals of traditional,
+hand-engraved scores.  In particular it produces exceptionally
+readable default output, only given the mere musical content.  So for
+anything short of a printed publication your scores may very well
+need little manual post-processing or none at all.  If you are
+exclusively looking for performance or study material this is a
+field where you can actually save time and money.
+
+The visual appearance of LilyPond's output can be configured up to
+the least detail, offering great stylistical diversity.  We have
+developed a set of default stylesheets to choose from, all
+tailored for perfect readability on the music stand.  But we can
+also design an individual “house style” for you, giving your
+productions a unique and recognisable appearance.
+
+Read more about the options and enjoy some nice
+[Examples](@root_path/examples).
+
+**Book Typesetting**  
+Many people don't know about the impact that typography has on the
+readability of texts. With [LaTeX](http://www.latex-project.org)
+you don't have to worry about this aspect because *any* document will
+be laid out perfectly, according to proven typesetting standards.
+Out of the box you will enjoy typographical quality that you'd *never*
+achieve with word processors and that is completely up to par with *any*
+professional publishing tool on the market.
+
+Of particular interest is the ability to mix text and music with
+high-quality results.  There are several solutions ready to use for
+different purposes like score editions with intermingled text parts
+or musicological books/documents with music examples.  We have
+developed our own LaTeX package
+[lilyglyphs](http://www.openlilylib.org/lilyglyphs) which allows the
+user to insert *any* notational elements like ordinary characters in
+continuous text.  This is a perfect solution for critical reports,
+but it can also be used in general-purpose music books.
+
+
+**Scholarly Review**  
+As we have musicolgocial expertise within our
+[core team](@root_path/contact-about) we can offer one-stop services
+around the creation of musical scores and documents.  Whether you're
+simply looking for thorough and professional proof-reading, need
+advice on editorial decisions or intend to produce an edition from 
+scratch based on obscure manuscript sources - just ask and we'll
+determine if we can do everything for you.  In addition we can write
+accompanying texts or do independent research and author scholarly
+documents.
+
+
+**Benefits from the Nature of our Tools**  
+We are working exclusively with programs processing *plain text*
+input files, and our workflows are based on *version control* and
+online collaboration.  This implies a number of features you can
+read about on [Benefits](@root_path/benefits).  Of particular
+interest with regard to our document preparation services are:
+
+- Seamless online collaboration  
+  warranting efficient work and improving quality
+- Option to join the process yourself  
+  if you want to look after everything yourself or save time and money
+- Use of libraries and custom commands  
+  for any specific issues like editorial annotations, special symbols etc.  
+  

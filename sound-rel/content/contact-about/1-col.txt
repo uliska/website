@@ -1,0 +1,9 @@
+title:About Us
+-
+keywords:beautifulscores,people
+-
+current_path:@path
+-
+content:
+This will give some information about Janek and Urs,
+as well as a contact form.

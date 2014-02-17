@@ -1,0 +1,10 @@
+name: beautifulScores
+-
+profession: Music Engraving Service
+-
+email: <a href="mailto:info@beautifulscores.net">info@beautifulscores.net</a>
+-
+yaml:@root_path/css/yaml
+-
+css:@root_path/css
+-
