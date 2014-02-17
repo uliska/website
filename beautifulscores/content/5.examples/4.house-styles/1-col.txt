@@ -3,10 +3,30 @@ title:House Styles
 keywords:lilypond,stylesheets,appearance,house styles
 -
 content:
-Several example scores displaying specific ”house styles”
+### “House Style” Examples
 
-All with or without applied beautification.
+To give you an impression how versatile LilyPond really can get
+we present you some examples of styles we developed with certain
+prominent models in mind.  We won't name them but leave it to
+you to guess what we were trying to achieve.  
+We are working on an Open Source stylesheet library which will
+provide a uniform interface and enable everybody to choose
+from a whole range of community-driven styles.
 
 - Henle (Kieren)
-- More (Kieren)?
+
+The second example is really a sketch and “under construction”.
+One important thing to note with this example is that we actually
+modified LilyPond's notation font to achieve the desired result.
+Please note that if we should do something like this to design a
+house stlye for you such a font modification is required to be
+licensed by a free license and to be made publicly available.
+The examples are used as a proof-of-concept, and the font modification
+is very incomplete - for example we modified the *p* but no other
+Dynamic letters.
+
 - UE style (my style copy)
+
+
+- More (Kieren)?
+- Add a non-sensical “fancy” style example?
