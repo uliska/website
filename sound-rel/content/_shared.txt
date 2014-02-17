@@ -1,8 +1,8 @@
-name: beautifulScores
+name: sound-rel
 -
-profession: Music Engraving Service
+profession: CD- und Notenverlag
 -
-email: <a href="mailto:info@beautifulscores.net">info@beautifulscores.net</a>
+email: <a href="mailto:mail@sound-rel.de">mail@sound-rel.de</a>
 -
 yaml:@root_path/css/yaml
 -
