@@ -50,7 +50,7 @@
 	/* (en) base layout gets standard font size 14px */
 	/* (de) Basis-Layout erhält Standardschriftgröße von 14 Pixeln */
 	body {
-		font-family: "Libre Baskerville", Georgia, "Times New Roman", Times, serif;
+		font-family: Cabin, sans-serif;
 		font-size:87.50%; /* base: 14px */
 		color:#442;
 
@@ -67,7 +67,7 @@
 	h4,
 	h5,
 	h6 {
-		font-family: "Libre Baskerville", Times, serif;
+		font-family: Cabin, sans-serif;
 		font-weight: 700;
 		margin:0;
 	}
