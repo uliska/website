@@ -1,4 +1,4 @@
-title:Challenges
+title:House Styles
 -
 keywords:lilypond,stylesheets,appearance,house styles
 -
