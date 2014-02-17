@@ -5,4 +5,26 @@ title: Home
 keywords:lilypond,latex,engraving,scholarly editions
 -
 content:
-Leere Startseite
+**`sound-rel`** -  
+Das kleine aber feine (CD-)Label für
+
+- Dada,
+- Futurismus,
+- Konkrete Poesie und
+- Extravagante Vokalmusik
+
+
+`sound-rel` wurde ursprünglich zur Dokumentation des Wirkens des
+Vokalensembles [ExVoCo](http://www.exvoco.de "Homepage") gegründet und
+begann seine Publikationstätigkeit mit einer Reihe von Konzertmitschnitten
+dieses Ensembles ([Serie I](@root_path/exvoco)).  
+Daneben sind CDs mit Vokalmusik im Angebot, an denen einzelne Mitglieder der Gruppe
+solistisch beteiligt sind: *Hanna Aurbacher* (Mezzosopran), und *Urs Liska*
+(Klavier) [(Serie II)](@root_path/vokal).  
+Eine weitere Serie umfasst bislang eine CD mit nicht-vokaler Musik
+[(Serie III)](@root_path/sonstiges).
+
+Als neuestes Projekt beginnt `sound-rel` seine Tätigkeit als Notenverlag
+mit einer revidierten Neuausgabe der Lieder von Oskar Fried. »Extravagant«
+ist in diesem Fall vor allem der Entstehungsprozess, der sich durch
+innovative Editionstechniken auszeichnet ([Serie IV: Oskar Fried](@root_path/fried)).
