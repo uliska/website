@@ -3,12 +3,48 @@ title:Styles
 keywords:lilypond,stylesheets,appearance
 -
 content:
-Several example scores displaying different style sheets
+### Ready-to-use Stylesheets
 
-All with applied beautification.
+On this page you can see a selection of score examples using
+our ready-to-use stylesheets.  If one of them offers the right
+style for you, we're all set and can start engraving your music
+right away.  Click on the thumbnails to view full-page PDF examples.
 
-- Fried example
-- Janek's choir pieces
-- Explicitly "classical" style (with Old Standard as text font)
-- one Jazz score
-- define a "fancy" style, e.g. with a quite square (or a tt)text font
+#### *Default* Style
+
+This is the visual appearance provided by LilyPond by default.
+So there is nothing to be done to adapt the style except adjusting
+some basic page layout values.
+
+Use: Janek's choir settings (Dvorak)?  
+A set of images: Small png files as thumbnails arranged horizontally.  
+clicking opens one page of PDF.
+
+#### *Modern* Style
+
+This is the style we created for our first big edition, the
+revised edition of Oskar Fried's songs.  It offers a very
+elegant and modern look while preserving the hand-engraved,
+rather bold appearance we love from LilyPond.  Please note
+that this style makes use of non-free text fonts, so you can't
+simply recreate scores with this appearance yourself without
+acquiring the used fonts.
+
+Use: Fried edition
+
+#### *Classical* Style
+
+This is a style explicitly looking backwards, using a text font
+often used in 19th century music engraving.
+
+Use: ???
+
+
+#### *Jazz* Style
+
+Some time ago members of the community provided a way to use a
+dedicated Jazz font for engraving lead sheets and similar scores.
+While this is not Lilypond's original domain the results are
+very appealing.
+
+Create new example or use one from existing discussion
