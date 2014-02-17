@@ -3,10 +3,51 @@ title:Default quality
 keywords:lilypond,automated engraving
 -
 content:
-Several example scores displaying out-of-the-box quality
-or comparing with beautified version.
+### Automated Engraving
 
-- Gethsemane (only OOTB)
-- Fried (comparison)
+One of LilyPond's particular strengths is it's exceptional
+out-of-the-box engraving quality.  More often than not the
+default output even of complex scores is perfectly
+suitable for most purposes.  Even when missing perfect
+publication quality it's usually very readable right away,
+so you can use the scores for comfortable reading
+without messing around with manual layout corrections.
+This becomes particularly apparent with complex rhythmic
+settings, or with intense polyphony as seen in the following
+excerpt from *Gethsemane*, a fragment by Arnold Schoenberg
+(displayed courtesy of Larry Schoenberg) - which is engraved
+*without a single manual correction* (!)):
+
+<div markdown="1">
+[![Click to enlarge](@root_path/public/images/gethsemane-thumb.png)](@root_path/public/images/gethsemane.pdf
+"Click to view full-page PDF")
+</div>
+
+This astonishing clarity is a direct result of LilyPond's
+*compiled* approach that allows it to have a very strong
+internal representation of the musical content and consider
+an enormous number of factors before making its layout
+decisions.  But it's also a consequence of the developers'
+passion to make *automated engraving* even better - instead
+of inventing more and more fancy user functions to feed
+the marketing office.  Your scores will even improve with
+LilyPond, without your further attention.
+
+Not all scores come that close to perfection out-of-the-box.
+But as you can see from the following comparison of a default
+engraving with the manually beautified score the imperfections
+are much less likely to interfere with the readability of the
+score - you could perfectly use the score on the music stand or
+for further editing without having to fiddle around with making
+it readable at all.  This characteristic behaviour makes LilyPond
+scores very robust, but also very efficient.
+
+- Fried song?
+- other score?
 - complicated instrumental part
-- ?
+
+While this is already very impressive we couldn't help but
+preparing a set of examples comparing this behaviour to that
+of the leading commercial WYSIWYG notation programs, which
+you can see on our [comparison](@root_path/examples/comparisons)
+page.
