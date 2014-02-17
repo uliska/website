@@ -1,0 +1,14 @@
+title:Styles
+-
+keywords:lilypond,stylesheets,appearance
+-
+content:
+Several example scores displaying different style sheets
+
+All with applied beautification.
+
+- Fried example
+- Janek's choir pieces
+- Explicitly "classical" style (with Old Standard as text font)
+- one Jazz score
+- define a "fancy" style, e.g. with a quite square (or a tt)text font

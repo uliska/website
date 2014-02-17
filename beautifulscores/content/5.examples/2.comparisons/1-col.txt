@@ -1,0 +1,12 @@
+title:Engraving Comparisons
+-
+keywords:lilypond,automated engraving
+-
+content:
+Comparing Lily's default output with that of other programs
+
+- Schoenberg opus 8,4  
+  compare old lily -> Finale 2008  
+  new lily -> Finale 2014
+- Godowsky *Winterwind*  
+  lily -> Sibelius 7

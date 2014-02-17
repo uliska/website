@@ -1,0 +1,12 @@
+title:Default quality
+-
+keywords:lilypond,automated engraving
+-
+content:
+Several example scores displaying out-of-the-box quality
+or comparing with beautified version.
+
+- Gethsemane (only OOTB)
+- Fried (comparison)
+- complicated instrumental part
+- ?

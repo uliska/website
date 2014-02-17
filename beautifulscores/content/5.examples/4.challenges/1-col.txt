@@ -1,0 +1,12 @@
+title:Challenges
+-
+keywords:lilypond,stylesheets,appearance,house styles
+-
+content:
+Several example scores displaying specific ”house styles”
+
+All with or without applied beautification.
+
+- Henle (Kieren)
+- More (Kieren)?
+- UE style (my style copy)
