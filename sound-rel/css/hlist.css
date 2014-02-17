@@ -24,7 +24,7 @@
 		/* (en|de) Bugfix:IE - collapsing horizontal margins */
 		position:relative;
 		line-height:1em;
-		background: #003;
+		background: #c00;
 	}
 
 	.ym-hlist ul {
@@ -49,7 +49,7 @@
 	.ym-hlist ul li a,
 	.ym-hlist ul li strong {
 		background:transparent;
-		color:#ccf;
+		color:#ff4;
 		display:block;
 		font-size:1em;
 		line-height: 2em;
