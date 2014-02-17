@@ -9,9 +9,15 @@ To give you an impression how versatile LilyPond really can get
 we present you some examples of styles we developed with certain
 prominent models in mind.  We won't name them but leave it to
 you to guess what we were trying to achieve.  
-We are working on an Open Source stylesheet library which will
-provide a uniform interface and enable everybody to choose
-from a whole range of community-driven styles.
+Additionally we are working on an Open Source stylesheet library
+which will provide a uniform interface and enable everybody to
+choose from a whole range of community-driven styles.
+
+Have a look at this well-known Beethoven Sonata. Doesn't it look
+like xeroxed from the famous blue edition?  If you print it please
+make sure not to shrink to paper size - it looks better if
+you crop the margins than making the score itself less weighty by
+downscaling it to A4 paper. 
 
 - Henle (Kieren)
 
@@ -28,5 +34,10 @@ Dynamic letters.
 - UE style (my style copy)
 
 
-- More (Kieren)?
-- Add a non-sensical “fancy” style example?
+As a final example we created a score with a stylish look and feel
+that is quite far away from what you'd usually expect from a notation
+program that is so enthusiastic about “traditional” engraving.  We
+present it at this place to demonstrate how “different” your scores
+could look if you want to have it that way.
+
+- Add a non-sensical (?) “fancy” style example? Maybe using "Ubuntu" as font.
