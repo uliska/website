@@ -1,9 +1,27 @@
 title:Kontakt
 -
-keywords:beautifulscores,people
--
-current_path:@path
--
 content:
-This will give some information about Janek and Urs,
-as well as a contact form.
+Sie erreichen uns
+
+- per Mail:  
+  [mail@sound-rel.de](mail@sound-rel.de)
+- telefonisch:  
+  +49(0)711-353 747
+- per Fax:  
+  +49(0)711-350 82 64
+
+Auf diesen Wegen können Sie auch unsere Produkte bestellen.
+
+
+**_English version_**
+
+You can reach us
+
+- by email:  
+  [mail@sound-rel.de](mail@sound-rel.de)
+- by phone:  
+  +49(0)711-353 747
+- by fax:  
+  +49(0)711-350 82 64
+
+Through these means you can also order our products.
