@@ -12,7 +12,7 @@ right away.  Click on the thumbnails to view full-page PDF examples.
 
 #### *Default* Style
 
-This is the visual appearance provided by LilyPond by default.
+This is the visual appearance LilyPond creates by default.
 So there is nothing to be done to adapt the style except adjusting
 some basic page layout values.
 
