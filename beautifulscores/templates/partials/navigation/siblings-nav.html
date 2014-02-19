@@ -1,0 +1,12 @@
+<ul>
+  foreach $siblings do
+    if @is_current do
+      <li class="active">
+    endif
+    if !@is_current do
+      <li>
+    endif
+      <a href="@url">@title</a>
+    </li>
+  endforeach
+</ul>
