@@ -16,9 +16,7 @@ This is the visual appearance LilyPond creates by default.
 So there is nothing to be done to adapt the style except adjusting
 some basic page layout values.
 
-Use: Janek's choir settings (Dvorak)?  
-A set of images: Small png files as thumbnails arranged horizontally.  
-clicking opens one page of PDF.
+[![](@root_path/public/images/eja-mater-example-small.png)](@root_path/public/images/eja-mater-example.pdf "Click to enlarge")
 
 #### *Modern* Style
 
