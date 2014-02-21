@@ -1,0 +1,10 @@
+name: sound-rel
+-
+profession: CD- und Notenverlag
+-
+email: <a href="mailto:mail@sound-rel.de">mail@sound-rel.de</a>
+-
+yaml:@root_path/css/yaml
+-
+css:@root_path/css
+-

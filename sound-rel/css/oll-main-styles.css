@@ -1,0 +1,40 @@
+.ym-wrapper {
+    min-width: 560px;
+    max-width: 80em;
+}
+.ym-wbox { padding: 10px; 
+}
+
+#header {
+	   background-color: #ff4;
+	   padding: 10px;
+	   color: #000;
+}
+
+#page {
+    background-color: #ffa;
+    color: #003;
+    padding:0;
+    margin:10px;	
+}
+
+#footer {
+    background-color: white;	
+}
+
+#footer p {
+    font-size: 75%;
+    margin:0;
+}
+
+span.OLL {
+    font-family: 'Old Standard TT';
+    font-weight: 700;
+    font-size: 120%;
+}
+
+span.XMP {
+	   font-family: 'inconsolata';
+	   font-weight: 700;
+	   color:#842;
+}
