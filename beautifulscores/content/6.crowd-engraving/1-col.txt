@@ -1,3 +1,53 @@
 title:Crowd Engraving
 -
 content:
+### Seamless Online Collaboration
+
+*Plain text tools* in combination with *version control* offer
+ways to edit files in parallel, without the risk of stepping on
+each other's toes.  This in itself allows for a completely new way
+of collaboration and could already be considered a key benefit.
+Actually it is *no* buzzphrase when we say that we can't imagine
+how we could ever have worked efficiently before.
+
+One effect of this is that tasks can be assigned much more flexibly
+than with traditional toolchains and workflows in which documents
+have to be passed along from one person to the next.  As everybody
+has simultaneous access to the whole data repository everybody is
+able to do anything that is currently necessary.  This “everybody”
+can also include *you* as our customer.  With some training you
+can join the process, save some money and gain control over the
+process by, say, doing proof-reading yourself.
+
+### Crowd Engraving: Online Collaboration on Speed
+
+But this can be taken to yet another level.  Collaborating on a
+shared data repository also implies that work can be distributed
+among *any number* of contributors.  Preparing a musical edition
+with versioned workflows is essentially the same thing as
+collaboratively developing software - we simply take the tools and
+strategies from computer sciences and bring them to the realm of
+musical editing!
+
+While this won't usually reduce the number of man-hours needed to
+complete a task this can significantly speed up the delivery of the
+finished product.  If you can assign the work of music entry to a
+number of contributors the overall processing time will be reduced
+accordingly:  20 engravers can finish a large score in about a 20th
+of the time needed by a single engraver.
+
+#### Use Cases
+
+- Huge editing projects like the 1.600 pages [Liedboek](http://www.liedboek.nl/)
+  that was completed in less than a year.  (This project was realized
+  before our activity, but it has been a big inspiration for us.)
+- Large scores that have to be finished on short notice, e.g. because
+  the orchestral rehearsals are approaching too rapidly.
+- Projects that are *intended* as community achievements.
+
+Our first reference project will be finished in 2014/15: the
+preparation of performance material for Oskar Fried's cantata
+[“Das Trunkne Lied”](http://lilypondblog.org/2013/06/das-trunkne-lied/).
+And currently we're discussing to start a complete edition of XXX, an
+important Portuguese composer, covering around 2.200 pages of mostly
+orchestral music.
