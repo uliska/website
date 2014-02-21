@@ -1,13 +1,82 @@
 title:Tools
 -
 content:
-Demonstrate a few of the specific tools we have developed:
+As mentioned plain text tools can be highly configured by
+developing libraries and tools or by extending their editing
+environments.
 
-- Use of LaTeX with "datasets" and alternative layout
-- LilyPond Draft Mode and Layout Control Mode
-- `\annotate`
-- etc. ?
+On this page we'll present a few of the tools
+we have developed or that we're busy with.  Please note that
+this is only an excerpt of existing material intended to give
+you a first impression.  Please note also that we can develop
+individual solutions for your projects, jobs or business
+if necessary.
 
-These are more "pitch" examples than a thorough overview.  
-Maybe point out the option to tailor such solutions
-to the customer's needs.
+#### LaTeX Commands
+With LaTeX you can define commands that are somewhat similar 
+but significantly superior to formatting stylesheets.
+Depending on the use case you can treat arguments like fields
+of datasets and thus can use a LaTeX file to efficiently
+store data.  For example one could store entries for a critical
+report in a structured manner:
+
+~~~
+
+\entry{5}                  % measure
+      {2. crotchet}        % position in measure
+      {piano}              % instrument
+      {Ms.: no accidental} % comment
+test2
+
+~~~
+
+Through the means of including different stylesheets for production
+or during development one can significantly alter the result of
+such commands.  We have written a
+[blog post](http://lilypondblog.org/2013/12/using-latex-for-a-musical-edition/)
+on the subject where you can see an example of such a command laid out
+for easy comprehension while editing and neat layout for the printed
+result.
+
+#### lilyglyphs
+We have developed [lilyglyphs](http://openlilylib.org/lilyglyphs),
+a LaTeX package that can include *any* notation that can
+be achieved with LilyPond into continuous text of a LaTeX text
+document.  This is probably the most verstatile and beautiful solution
+for using notational elements in texts.  While it was developed with
+critical reports in mind this package can very well be used in the
+main body of musicological books.
+
+#### Editorial Toolbox
+We have created a library of useful LilyPond functions for editorial
+purposes. They provide consistent decoration of editorial elements
+in a score (e.g. amendments or additions) and tools for “in-source
+communication” which you can understand as a kind of short message
+service between different editors of a file.  One nice touch about
+it is that the elements are highlighted through colors while one is
+still developing the score.
+
+One particular goal which is still under development is a package
+called `\annotate`.  This will allow an editor to enter arbitrary
+annotations directly in the score file.  Apart from being used as
+another communication channel these annotations will ultimately
+be processed so they can be used as input for critical report
+commands in LaTeX documents.  So it will be possible to perform *the
+whole editing process* up to the critical report in the context of
+the actual score! 
+
+#### Extending the IDEs: Layout Control Mode
+Not only Lilypond and LaTeX are extensible open source projects,
+also many of the available editing environments can be modified,
+developed or adjusted to one's personal needs.  From the idea of
+creating a specific *draft mode* that visualizes internal aspects
+while one is still developing a score we created a new tool for
+our LilyPond editor of choice, [Frescobaldi](http://www.frescboaldi.org):
+The *Layout Control Mode* which allows you to display a range of
+useful information on a temporary basis. Read somewhat more on
+our [introductory blog post](http://lilypondblog.org/2013/10/preview-mode-preview/).
+
+Please note that also aspects like the in-source annotations or the
+critical report entries can - and will - be “treated” with similar
+extensions of the IDE 
+
