@@ -1,31 +1,31 @@
 title:Benefits
 -
 content:
-The list of benefits provided by plain text tools and workflows
-is rather long. Actually we can't imagine how we could ever have
-worked efficiently before that. We're confident that you'll find
-aspects relating to you, your working style or business requirements
-in the following list.
+It can't be stressed enough that the experiences we made during
+the past two years really turned our ways of working upside down.
+Incorporating workflows and tools from computer science into
+musical editing made us reconsider everything we knew
+about working, and working in team particularly.
 
-- *Seamless collaboration*  
-Working together on the same files simultaneously -- without having to worry about stepping
-on each other's toes -- makes for very smooth workflows and improves overall quality
-through constant peer review by design.
-- *Long-term reliability*  
-Projects are self-documenting (through version control), and updating documents even after
-publication is a straightforward and transparent process, without the risk of compromising
-any existing work. This is particularly valuable for long-term projects like complete
-editions or other publication series.
-- *Integration of text and music*  
-The compilation of scores and textual parts into a contigious document happens in the
-shared data repository too, so the complete volume can be maintained in the
-same environment as the individual parts, without the need of passing around documents
-between different editors and tools.
-- *Flexibility*  
-Working environments can be fine-tuned to a remarkable degree. This comprises house
-style libraries, enforcment of typographical standards, data processing etc.
-- *Crowd Engraving*
-- *Joining the process*
-- *Specialists for specific needs*
-- *Individual solutions*
-- *Fair and transparent pricing*
+The list of benefits provided by plain text tools and workflows
+is rather long.  On this website we can only give a few spotlights
+on its items.  If you're interested in learning more about it
+we suggest to read our
+[in-depth essay](http://lilypondblog.org/2013/07/plain-text-files-in-music/)
+or visit our [blog](http://lilypondblog.org) in general.
+
+The following aspects are to greater or lesser extent applicable
+to the benefits of our services as document providers or to being
+implemented in your own business.  But we're quite positive
+that you should definitely find something that relates to you
+and your requirements.
+
+- *Seamless (realtime) collaboration*  
+- *Peer review* can be incorporated as a constant factor at any level.
+- *Crowd Engraving* to speed up delivery
+- *Joining the process* to save money or gain control
+- *Long-term reliability* through self-documenting projects.
+- *Integration of text and music* with LilyPond and LaTeX
+- *Flexibility* to tailor the environment to your individual needs
+- *Specialists for specific needs* can join projects on demand
+- *Individual solutions* or common styles
