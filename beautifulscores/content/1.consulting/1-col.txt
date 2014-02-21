@@ -1,8 +1,95 @@
 title:Consulting
 -
 content:
-I don't know how to name this page.
-It should tell about the option to implement text based workflows
-for a customer's business. I.e. we analyze their tasks and goals
-and suggest new workflows and tools (actually what I did for the
-Webern edition).
+**I don't know yet if that's the ideal name for this page.**
+
+*Plain text tools* and *version control* provide fundamentally
+superior workflows, which you should know by now if you have
+already read some pages on our site.  These do not necessarily
+help only *us* - but *you* can also benefit from them by adapting
+the tools and workflows that are appropriate for your specific
+business.
+
+We would be happy to assist you in finding your way into that
+realm of *plain text*, *source code* or *command line work*.
+The nice thing is: Even during this process we can make use of
+the advantages of collaborative workflows.
+
+#### Analysis
+In a first step we would listen to what you can tell us about your
+business and make suggestions what could be a worthwile investment.
+There are several partial solutions that can also make sense
+independently:
+
+- *Using LilyPond for score engraving*  
+  This is where our origins are, so this would be our core concern.
+  But engraving scores with LilyPond isn't the only way of 
+  benefitting from plain text approaches.  (But when you are
+  considering collaborative workflows it's the only real choice anyway.)
+- *Using LaTeX for maintaining text documents*  
+  This can be made useful even independently, so depending on
+  your business and interests we could implement only this
+  part of the toolkit.
+- *Preparing scores and texts for online access*  
+  Contents maintained as plain text are highly accessible
+  to web services and other forms of single-source publishing.
+  This can be an interesting option when you want to distribute
+  music (maybe even music-on-demand) online, or when you want
+  to provide searchable databases of, say, critical reports.
+
+#### Software Set-up
+Setting up your software systems consists of two independent parts:
+*installing* and configuring software and *setting up* the toolkits.
+
+- *Installing* and *Configuration*  
+  Determining the necessary software to be run on your client computers
+  and servers or deciding about creating accounts with external service
+  providers is the basis for any additional work. As *all* relevant tools
+  are freely available as open source software you won't have to
+  calculate any costs for buying or licensing software.  The tools can also
+  be used on any operating system, so you're not bound to any platform.
+- *Individual Toolkit*  
+  This *can* be a significant portion of work, depending on the
+  specificity of your applications.  If you're simply going to use
+  tools and functionality we have already available it's really not
+  more than a matter of software configuration.  
+  But we can provide a lot more than that: fine-tuning everything to
+  your business' requirements, creating individual stylesheets or
+  even a complete infrastructure for advanced applications like
+  manuscript management, database management of musical snippets
+  or whatever you might need.
+  
+
+#### Fundamental Training
+It can't be denied that getting fluent with plain text based work is
+something that needs time to get used to.  But we're absolutely
+convinced that it is more than worth the investment.  On the long run
+but already after some initial accomodation time.  To assist you finding
+your way through this area we can provide fundamental training for
+version control, LilyPond and LaTeX usage, online or with local workshops
+and training units.
+
+#### Mentoring
+All necessary tools can be learned by looking for free resources, becoming
+member of communities or buying books.  But it is significantly more
+efficient to have some *mentoring*, that is someone who can be asked 
+the currently relevant question and who will answer exactly in the
+context that is currently interesting.  We won't leave you alone after
+initial set-up but will be around to get you going until you can walk alone.
+
+One cool feature has been mentioned in another context: *Joining the process yourself.*
+This is also an ideal way to get the mentoring and training “on the job”, while
+being able to directly jump into real-world projects without having to
+postpone everything until you're ready to use the new technology.  To make
+it short: *We* start doing the work, *you* can start to take over more
+and more work and responsability, and finally you can do everything 
+on your own.
+
+#### Support
+When you are completely set up, have learned enough to walk alone and
+are already doing your stuff by yourself, we can still be around to
+give occasional support.  Again: The nature of our collaborative tools
+will enable us not only to answer any questions, but also to directly
+access the project repositories and do any cleaning up that might be
+necessary. If you didn't manage to completely spoil something on your
+client computer we should always be able to help you out online.
