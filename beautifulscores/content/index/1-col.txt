@@ -39,7 +39,7 @@ online collaboration. The secret lies in the use of *version control*
 and *plain text based tools* making completely new workflows possible.
 These scale very well and we can distribute work among any number
 of contributors, either to speed up delivery or to tackle
-specific tasks.  Read more on [Crowd Engraving](@root_path/crowd-engraving).
+specific tasks.  Read more in [Crowd Engraving](@root_path/crowd-engraving).
 
 **The Future For your Business**  
 But we are much more than Yet Another Engraving Studio.  Our
