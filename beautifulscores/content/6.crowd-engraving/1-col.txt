@@ -29,9 +29,8 @@ collaboratively developing software - we simply take the tools and
 strategies from computer sciences and bring them to the realm of
 musical editing!
 
-While this won't usually reduce the number of man-hours needed to
-complete a task this can significantly speed up the delivery of the
-finished product.  If you can assign the work of music entry to a
+This can significantly speed up the delivery of the
+finished product: if you can assign the work of music entry to a
 number of contributors the overall processing time will be reduced
 accordingly:  20 engravers can finish a large score in about a 20th
 of the time needed by a single engraver.
