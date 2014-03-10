@@ -44,9 +44,7 @@ everything and drag objects around in arbitrary ways just to be
 able to read the score at all.  What this means is: For many
 use cases you don't have to bother - and pay - for manually fixing
 stuff that the software didn't manage to get right by itself.
-And this means that you will only have to “contaminate” the
-documents with manual interventions when actually preparing a
-beautified printout for publication.  While developing the
+While developing the
 *content* of a score you only have to deal with the *content*.
 
 We explicitly offer scores in a default quality, trusting our
