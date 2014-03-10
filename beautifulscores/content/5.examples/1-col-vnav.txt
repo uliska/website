@@ -7,11 +7,8 @@ content:
 
 The output offered by our notation software of choice,
 [LilyPond](http://www.lilypond.org) is not only of 
-exceptional quality but also shows remarkable versatility.
-Of course you can expect similar virtues from our book
-typesetting but on these pages you can mainly enjoy
-example of beautiful scores.
-
+exceptional quality but also shows remarkable versatility,
+as you can see on the examples here.
 To get an impression on the diversity of historical styles
 that can be engraved with LilyPond please visit the
 [Examples](http://www.lilypond.org/examples.html "LilyPond Home Page")
