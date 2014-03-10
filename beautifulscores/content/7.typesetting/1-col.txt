@@ -5,7 +5,7 @@ content:
 ... is one of the key areas of a musical
 service provider.  Our offers in this field include:
 
-- Scores in *publication quality* or in a *default quality*
+- Scores in *publication quality* or in a *standard quality*
   serving gracefully for most needs.
 - Performance material (for example for choirs and orchestras).
 - Transpositions (e.g. of songs).
@@ -17,16 +17,15 @@ service provider.  Our offers in this field include:
 Our notation program of choice, [LilyPond](http://www.lilypond.org),
 provides exceptional engraving according to the ideals of traditional,
 hand-engraved scores.  In particular it produces exceptionally
-readable default output, only given the mere musical content.  So for
-anything short of a printed publication your scores may very well
-need little manual post-processing or none at all.  If you are
-exclusively looking for performance or study material this is a
-field where you can actually save time and money.
+readable output even without manual adjustments.  Thus, if you are
+exclusively looking for performance or study material, you can
+save time and money by ordering a *standard quality* score which
+should be good enough for most uses.
 
 The visual appearance of LilyPond's output can be configured up to
 the least detail, offering great stylistical diversity.  We have
 developed a set of default stylesheets to choose from, all
-tailored for perfect readability on the music stand.  But we can
+tailored for perfect readability on the music stand.  We can
 also design an individual “house style” for you, giving your
 productions a unique and recognisable appearance.
 
