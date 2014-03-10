@@ -47,7 +47,7 @@ stuff that the software didn't manage to get right by itself.
 While developing the
 *content* of a score you only have to deal with the *content*.
 
-We explicitly offer scores in a default quality, trusting our
+We explicitly offer scores in _standard_ quality, trusting our
 tools to produce usable results by themselves.  We're positive
 that already these scores will be more enjoyable for musicians
 than the majority of scores they're exposed to usually.
