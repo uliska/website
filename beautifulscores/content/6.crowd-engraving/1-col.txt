@@ -43,10 +43,3 @@ of the time needed by a single engraver.
 - Large scores that have to be finished on short notice, e.g. because
   the orchestral rehearsals are approaching too rapidly.
 - Projects that are *intended* as community achievements.
-
-Our first reference project will be finished in 2014/15: the
-preparation of performance material for Oskar Fried's cantata
-[“Das Trunkne Lied”](http://lilypondblog.org/2013/06/das-trunkne-lied/).
-And currently we're discussing to start a complete edition of XXX, an
-important Portuguese composer, covering around 2.200 pages of mostly
-orchestral music.
