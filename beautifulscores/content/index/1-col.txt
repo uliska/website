@@ -56,6 +56,6 @@ you should definitely have a look at the underlying
 [benefits](@root_path/benefits) of using plain text based tools.
 Read more about how we can assist you with implementing
 future-oriented technologies in your edition and engraving
-business on [Administration](@root_path/administration).
+business on [Consulting](@root_path/consulting).
 
 

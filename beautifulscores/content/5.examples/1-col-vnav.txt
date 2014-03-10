@@ -7,11 +7,8 @@ content:
 
 The output offered by our notation software of choice,
 [LilyPond](http://www.lilypond.org) is not only of 
-exceptional quality but also shows remarkable versatility.
-Of course you can expect similar virtues from our book
-typesetting but on these pages you can mainly enjoy
-example of beautiful scores.
-
+exceptional quality but also shows remarkable versatility,
+as you can see on the examples here.
 To get an impression on the diversity of historical styles
 that can be engraved with LilyPond please visit the
 [Examples](http://www.lilypond.org/examples.html "LilyPond Home Page")
@@ -47,13 +44,10 @@ everything and drag objects around in arbitrary ways just to be
 able to read the score at all.  What this means is: For many
 use cases you don't have to bother - and pay - for manually fixing
 stuff that the software didn't manage to get right by itself.
-And this means that you will only have to “contaminate” the
-documents with manual interventions when actually preparing a
-beautified printout for publication.  While developing the
+While developing the
 *content* of a score you only have to deal with the *content*.
 
-We explicitly offer scores in a default quality, trusting our
-tools to produce usable results by themselves.  We're positive
+We explicitly offer scores in _standard_ quality, and we're positive
 that already these scores will be more enjoyable for musicians
 than the majority of scores they're exposed to usually.
 This is something where you actually can save money if you're
