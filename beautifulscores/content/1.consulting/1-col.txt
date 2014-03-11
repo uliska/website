@@ -59,24 +59,23 @@ Setting up your software systems consists of two independent parts:
 #### Fundamental Training
 It can't be denied that getting fluent with plain text based work is
 something that needs time to get used to.  But we're absolutely
-convinced that it is more than worth the investment.  On the long run
+convinced that it is more than worth the investment.  On the long run,
 but already after some initial accomodation time.  To assist you finding
 your way through this area we can provide fundamental training for
 version control, LilyPond and LaTeX usage, online or with local workshops
 and training units.
 
 #### Mentoring
-All necessary tools can be learned by looking for free resources, becoming
+All necessary tools can be learned by looking at free resources, becoming
 member of communities or buying books.  But it is significantly more
-efficient to have some *mentoring*, that is someone who can be asked 
+efficient to have some *mentoring* from someone who can be asked 
 the currently relevant question and who will answer exactly in the
 context that is currently interesting.  We won't leave you alone after
 initial set-up but will be around to get you going until you can walk alone.
 
 One cool feature has been mentioned in another context: *Joining the process yourself.*
 This is also an ideal way to get the mentoring and training “on the job”, while
-being able to directly jump into real-world projects without having to
-postpone everything until you're ready to use the new technology.  To make
+being able to directly jump into real-world projects.  To make
 it short: *We* start doing the work, *you* can start to take over more
 and more work and responsability, and finally you can do everything 
 on your own.
