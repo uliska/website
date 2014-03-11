@@ -5,12 +5,12 @@ keywords:lilypond,stylesheets,engraving styles
 content:
 The output offered by our notation software of choice,
 [LilyPond](http://www.lilypond.org) is not only of 
-exceptional quality but also shows remarkable versatility,
-as you can see on the examples here.
+exceptional quality but also shows remarkable versatility.
 To get an impression on the diversity of historical styles
 that can be engraved with LilyPond please visit the
 [Examples](http://www.lilypond.org/examples.html "LilyPond Home Page")
-page on LilyPond's home page.
+page on LilyPond's home page.  On this page we provide you
+with a set of differently *looking* LilyPond scores.
 
 **Style Sheets**  
 With plain text files it is usually a simple matter of
