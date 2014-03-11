@@ -25,28 +25,23 @@ far as modifying the used notation font to create a unique
 appearance.  This can really make your publications stand apart.
 
 **Automated Engraving and Out-of-the-box Quality**  
-DTP programs that *compile* plain text input files produce
-better default output than WYSIWYG tools - by design.
-They can consider significantly more layout factors *because*
-they don't have to deliver *instant results*.  This may sound
-academic, but actually it has an enormous real-life impact.
+LilyPond's declared goal is “automated engraving”, meaning
+that the software will make informed layout decisions based
+on the craftsmanship of traditional plate-engraving.  This may
+sound academic, but actually it has an enormous real-life impact.
 Scores entered in LilyPond are usually immediately usable,
 for anything short of publication.  No need to touch
-everything and drag objects around in arbitrary ways just to be
-able to read the score at all.  What this means is: For many
-use cases you don't have to bother - and pay - for manually fixing
+everything and drag objects around in arbitrary ways just to make
+the score legible.  What this means is: For many
+use cases you don't have to bother with - or pay for - manually fixing
 stuff that the software didn't manage to get right by itself.
-While developing the
-*content* of a score you only have to deal with the *content*.
 
 We explicitly offer scores in _standard_ quality, and we're positive
-that already these scores will be more enjoyable for musicians
-than the majority of scores they're exposed to usually.
-This is something where you actually can save money if you're
-just interested in performance or instructional material.  See
-for yourself with our [comparisons](@root_path/examples/quality)
-between LilyPond's out-of-the-box engraving and scores manually
-tuned to perfection.  To make this even more telling we also
-created a set of [comparison examples](@root_path/examples/comparisons)
-with LilyPond's WYSIWYG competitors.
+that they will be more enjoyable for musicians
+than the majority of scores they're usually exposed to.
+Well, if you look at the following examples, can you actually 
+distinguish the *publication* and the *standard* quality examples?
+
+<div style="text-align:center" markdown="1">
+&nbsp;
 
