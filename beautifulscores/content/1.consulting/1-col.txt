@@ -1,19 +1,16 @@
 title:Consulting
 -
 content:
-**I don't know yet if that's the ideal name for this page.**
-
-*Plain text tools* and *version control* provide fundamentally
-superior workflows, which you should know by now if you have
-already read some pages on our site.  These do not necessarily
-help only *us* - but *you* can also benefit from them by adapting
-the tools and workflows that are appropriate for your specific
-business.
+As you probably know from other pages on our website we are working
+with a set of innovative tools, bringing the toolkit of software
+development to the realm of musical engraving and editing.
+These tools help *us* - but *you* can also benefit from them by
+adapting your specific engraving and publishing business.
 
 We would be happy to assist you in finding your way into that
-realm of *plain text*, *source code* or *command line work*.
+world of *plain text*, *source code*, *versioning* and *command line work*.
 The nice thing is: Even during this process we can make use of
-the advantages of collaborative workflows.
+the advantages of our collaborative workflows.
 
 #### Analysis
 In a first step we would listen to what you can tell us about your
