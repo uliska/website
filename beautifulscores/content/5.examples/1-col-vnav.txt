@@ -3,8 +3,6 @@ title:Examples
 keywords:lilypond,stylesheets,engraving styles
 -
 content:
-### Stylistic Diversity
-
 The output offered by our notation software of choice,
 [LilyPond](http://www.lilypond.org) is not only of 
 exceptional quality but also shows remarkable versatility,
