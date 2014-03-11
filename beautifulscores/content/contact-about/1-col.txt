@@ -26,15 +26,19 @@ or `jw` or `ul` at the same domain.
 
 ### Please visit also:
 
-- [Scores of Beauty](http://lilypondblog.org), our blog
-- [openLilyLib](http://openlilylib.org)
-- Our Github sites:  
-  - [openLilyLib](https://github.com/openlilylib)  
-  - [LilyPond](https://github.com/lilypond)  
-  - [Engraving Challenges](https://github.com/engraving-challenges/main)
+[Scores of Beauty](http://lilypondblog.org), our blog
+
+[openLilyLib](http://openlilylib.org)
+
+Our Github sites:  
+- [openLilyLib](https://github.com/openlilylib)  
+- [Engraving Challenges](https://github.com/engraving-challenges/main)
+
+Websites of our tools:
 - [LilyPond](http://lilypond.org)
 - [LaTeX](http://latex-project.org)
 - [Git](http://git-scm.com)
-- Urs' Schoenberg pages:  
-  - [German website](http://www.schoenberg-lieder.de)  
-  - [YouTube channel](http://www.youtube.com/user/schoenberglieder)
+
+Urs' Schoenberg pages:  
+- [German website](http://www.schoenberg-lieder.de)  
+- [YouTube channel](http://www.youtube.com/user/schoenberglieder)
