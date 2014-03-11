@@ -10,7 +10,7 @@ content:
 <img src="@root_path/public/images/fried-07-1-excerpt-small.png" />
 </div>
 
-**beautifulScores**  
+**beautifulScores ...**  
 is a group of music engravers offering innovative
 and unique services when it comes to typesetting scores or music books.
 We are committed to creating beautiful scores with that old-fashioned
@@ -42,7 +42,7 @@ of contributors, either to speed up delivery or to tackle
 specific tasks.  Read more on [Crowd Engraving](@root_path/crowd-engraving).
 
 **The Future For your Business**  
-But we are much more than Yet Another Engraving Studio.  Our
+But we are much more than *Yet Another Engraving Studio*.  Our
 innovative workflows can have tremenduous impact on your own
 editing and publication processes too. If you're interested in
 
@@ -51,9 +51,11 @@ editing and publication processes too. If you're interested in
 - *Perfect and smooth integration* of text and music,
 - *Highly configurable set-up* of your working environment
 
-you should definitely have a look at the underlying
-[concepts](@root_path/concepts) and the potential
+you should definitely have a look at the list of potential
 [benefits](@root_path/benefits) of using plain text based tools.
+For a more thorough introduction you may read an in-depth
+essay published on
+[Scores of Beauty](http://lilypondblog.org/2013/07/plain-text-files-in-music/ "Plain Text Files in Music").
 Read more about how we can assist you with implementing
 future-oriented technologies in your edition and engraving
 business on [Consulting](@root_path/consulting).

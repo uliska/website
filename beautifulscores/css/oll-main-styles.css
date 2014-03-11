@@ -18,8 +18,17 @@
     margin:10px;	
 }
 
+#main {
+	background-color: white;
+}
+
+body {
+	background-color: #eef;
+}
+
 #footer {
-    background-color: white;	
+    background-color: #eef;
+    border-top: 1px solid #cce;	
 }
 
 #footer p {

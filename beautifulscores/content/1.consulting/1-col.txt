@@ -1,35 +1,31 @@
 title:Consulting
 -
 content:
-**I don't know yet if that's the ideal name for this page.**
-
-*Plain text tools* and *version control* provide fundamentally
-superior workflows, which you should know by now if you have
-already read some pages on our site.  These do not necessarily
-help only *us* - but *you* can also benefit from them by adapting
-the tools and workflows that are appropriate for your specific
-business.
+As you probably know from other pages on our website we are working
+with a set of innovative tools, bringing the toolkit of software
+development to the realm of musical engraving and editing.
+These tools help *us* - but *you* can also benefit from them by
+adapting your specific engraving and publishing business.
 
 We would be happy to assist you in finding your way into that
-realm of *plain text*, *source code* or *command line work*.
+world of *plain text*, *source code*, *versioning* and *command line work*.
 The nice thing is: Even during this process we can make use of
-the advantages of collaborative workflows.
+the advantages of our collaborative workflows.
 
 #### Analysis
-In a first step we would listen to what you can tell us about your
-business and make suggestions what could be a worthwile investment.
+In a first step we'll listen to what you can tell us about your
+business and make suggestions which investment we consider worthwile.
 There are several partial solutions that can also make sense
 independently:
 
 - *Using LilyPond for score engraving*  
-  This is where our origins are, so this would be our core concern.
-  But engraving scores with LilyPond isn't the only way of 
-  benefitting from plain text approaches.  (But when you are
-  considering collaborative workflows it's the only real choice anyway.)
+  Of course his is where our origins are, so this is our initial
+  concern.  But there are other ways of benefitting from plain
+  text approaches too.
 - *Using LaTeX for maintaining text documents*  
   This can be made useful even independently, so depending on
-  your business and interests we could implement only this
-  part of the toolkit.
+  your business and interests we can implement this part of the
+  toolkit alone.
 - *Preparing scores and texts for online access*  
   Contents maintained as plain text are highly accessible
   to web services and other forms of single-source publishing.
@@ -46,10 +42,10 @@ Setting up your software systems consists of two independent parts:
   and servers or deciding about creating accounts with external service
   providers is the basis for any additional work. As *all* relevant tools
   are freely available as open source software you won't have to
-  calculate any costs for buying or licensing software.  The tools can also
-  be used on any operating system, so you're not bound to any platform.
+  calculate any costs for buying or licensing software.  The tools run
+  on all major operating systems, so you're not bound to any platform.
 - *Individual Toolkit*  
-  This *can* be a significant portion of work, depending on the
+  This *can* be a significant amount of work, depending on the
   specificity of your applications.  If you're simply going to use
   tools and functionality we have already available it's really not
   more than a matter of software configuration.  
@@ -63,24 +59,23 @@ Setting up your software systems consists of two independent parts:
 #### Fundamental Training
 It can't be denied that getting fluent with plain text based work is
 something that needs time to get used to.  But we're absolutely
-convinced that it is more than worth the investment.  On the long run
+convinced that it is more than worth the investment.  On the long run,
 but already after some initial accomodation time.  To assist you finding
 your way through this area we can provide fundamental training for
 version control, LilyPond and LaTeX usage, online or with local workshops
 and training units.
 
 #### Mentoring
-All necessary tools can be learned by looking for free resources, becoming
+All necessary tools can be learned by looking at free resources, becoming
 member of communities or buying books.  But it is significantly more
-efficient to have some *mentoring*, that is someone who can be asked 
+efficient to have some *mentoring* from someone who can be asked 
 the currently relevant question and who will answer exactly in the
 context that is currently interesting.  We won't leave you alone after
 initial set-up but will be around to get you going until you can walk alone.
 
 One cool feature has been mentioned in another context: *Joining the process yourself.*
 This is also an ideal way to get the mentoring and training “on the job”, while
-being able to directly jump into real-world projects without having to
-postpone everything until you're ready to use the new technology.  To make
+being able to directly jump into real-world projects.  To make
 it short: *We* start doing the work, *you* can start to take over more
 and more work and responsability, and finally you can do everything 
 on your own.

@@ -5,5 +5,36 @@ keywords:beautifulscores,people
 current_path:@path
 -
 content:
-This will give some information about Janek and Urs,
-as well as a contact form.
+
+### The core team
+
+**Jan Warchoł**  
+is a software engineer and a music engraver. He is passionate
+about perfecting even the smallest details in anything he makes.
+
+**Urs Liska**  
+is a professional pianist and musicologist with strong
+programming background.
+His vision is bringing the virtues of plain text tools to musicological
+work.
+
+### Contact
+
+If you want to contact us please write to
+`info - at - beautifulscores dot net`,
+or `jw` or `ul` at the same domain.
+
+### Please visit also:
+
+- [Scores of Beauty](http://lilypondblog.org), our blog
+- [openLilyLib](http://openlilylib.org)
+- Our Github sites:  
+  - [openLilyLib](https://github.com/openlilylib)  
+  - [LilyPond](https://github.com/lilypond)  
+  - [Engraving Challenges](https://github.com/engraving-challenges/main)
+- [LilyPond](http://lilypond.org)
+- [LaTeX](http://latex-project.org)
+- [Git](http://git-scm.com)
+- Urs' Schoenberg pages:  
+  - [German website](http://www.schoenberg-lieder.de)  
+  - [YouTube channel](http://www.youtube.com/user/schoenberglieder)

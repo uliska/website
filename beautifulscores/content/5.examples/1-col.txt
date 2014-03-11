@@ -1,0 +1,93 @@
+title:Examples
+-
+keywords:lilypond,stylesheets,engraving styles
+-
+content:
+The output offered by our notation software of choice,
+[LilyPond](http://www.lilypond.org) is not only of 
+exceptional quality but also shows remarkable versatility.
+To get an impression on the diversity of historical styles
+that can be engraved with LilyPond please visit the
+[Examples](http://www.lilypond.org/examples.html "LilyPond Home Page")
+page on LilyPond's home page.  On this page we provide you
+with a set of differently *looking* LilyPond scores.
+
+**Style Sheets**  
+With plain text files it is usually a simple matter of
+exchanging *one* file include to apply a completely
+different style to a document.  We have developed a
+set of stylesheets, giving our scores a beautiful,
+readable appearance out-of-the-box.  Styles range
+from *classical* over *modern* and *jazz* to *fancy*.
+In addition to our set of ready-to-use styles we can also
+design a “house style” for you, which can go as
+far as modifying the used notation font to create a unique
+appearance.  This can really make your publications stand apart.
+
+**Automated Engraving and Out-of-the-box Quality**  
+LilyPond's declared goal is “automated engraving”, meaning
+that the software will make informed layout decisions based
+on the craftsmanship of traditional plate-engraving.  This may
+sound academic, but actually it has an enormous real-life impact.
+Scores entered in LilyPond are usually immediately usable,
+for anything short of publication.  No need to touch
+everything and drag objects around in arbitrary ways just to make
+the score legible.  What this means is: For many
+use cases you don't have to bother with - or pay for - manually fixing
+stuff that the software didn't manage to get right by itself.
+
+We explicitly offer scores in _standard_ quality, and we're positive
+that they will be more enjoyable for musicians
+than the majority of scores they're usually exposed to.
+Well, if you look at the following examples, can you actually 
+distinguish the *publication* and the *standard* quality examples?
+
+<div style="text-align:center" markdown="1">
+&nbsp;
+
+---
+
+[![](@root_path/public/images/estrella.png)](@root_path/public/images/estrella.pdf "Click for PDF")  
+Robert Schumann: *Estrella*, LilyPond's default style.
+
+&nbsp;
+
+---
+
+[![](@root_path/public/images/fried-07-1-29.png)](@root_path/public/images/fried-07-1-29.pdf "Click for PDF")  
+Oskar Fried: *Heiterkeit, güldene, komm! op. 7,1*,
+elegant stylesheet from our award-winning edition.
+
+&nbsp;
+
+---
+
+[![](@root_path/public/images/berg-opus-5-ue.png)](@root_path/public/images/berg-opus-5-ue.pdf "Click for PDF")  
+Alban Berg: Piece for clarinet and piano op. 5,1,
+custom stylesheet.
+
+&nbsp;
+
+---
+
+[![](@root_path/public/images/beethoven-10-3-henle.png)](@root_path/public/images/beethoven-10-3-henle.pdf "Click for PDF")  
+Ludwig van Beethoven: Sonata op. 10,3, another custom stylesheet.
+
+&nbsp;
+
+---
+
+[![](@root_path/public/images/eja-mater-example.png)](@root_path/public/images/eja-mater-example.pdf "Click for full-page PDF")  
+Antonín Dvořák: Eja mater,
+LilyPond's default style.
+
+&nbsp;
+
+---
+
+![](@root_path/public/images/variations-and-theme-4.png)  
+Urs Liska: Dodecaphonic study.  
+Download the five-page PDFs with    
+[LilyPond's default style](@root_path/public/images/variations-and-theme-default.pdf)  
+[House style (work in progress)](@root_path/public/images/variations-and-theme-ue.pdf)
+</div>
