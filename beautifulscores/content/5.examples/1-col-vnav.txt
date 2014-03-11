@@ -19,16 +19,10 @@ different style to a document.  We have developed a
 set of stylesheets, giving our scores a beautiful,
 readable appearance out-of-the-box.  Styles range
 from *classical* over *modern* and *jazz* to *fancy*.
-Browse our [gallery](@root_path/examples/styles) of
-reference scores to get an impression of these different
-styles and the overall quality of our engraving.
-
 In addition to our set of ready-to-use styles we can also
 design a “house style” for you, which can go as
 far as modifying the used notation font to create a unique
 appearance.  This can really make your publications stand apart.
-Have a look at some [challenges](@root_path/examples/house-styles)
-we took to achieve specific styles.
 
 **Automated Engraving and Out-of-the-box Quality**  
 DTP programs that *compile* plain text input files produce
