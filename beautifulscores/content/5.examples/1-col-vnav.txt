@@ -45,3 +45,49 @@ distinguish the *publication* and the *standard* quality examples?
 <div style="text-align:center" markdown="1">
 &nbsp;
 
+---
+
+[![](@root_path/public/images/estrella.png)](@root_path/public/images/estrella.pdf "Click for PDF")  
+Robert Schumann: *Estrella*, LilyPond's default style.
+
+&nbsp;
+
+---
+
+[![](@root_path/public/images/fried-07-1-29.png)](@root_path/public/images/fried-07-1-29.pdf "Click for PDF")  
+Oskar Fried: *Heiterkeit, güldene, komm! op. 7,1*,
+elegant stylesheet from our award-winning edition.
+
+&nbsp;
+
+---
+
+[![](@root_path/public/images/berg-opus-5-ue.png)](@root_path/public/images/berg-opus-5-ue.pdf "Click for PDF")  
+Alban Berg: Piece for clarinet and piano op. 5,1,
+custom stylesheet.
+
+&nbsp;
+
+---
+
+[![](@root_path/public/images/beethoven-10-3-henle.png)](@root_path/public/images/beethoven-10-3-henle.pdf "Click for PDF")  
+Ludwig van Beethoven: Sonata op. 10,3, another custom stylesheet.
+
+&nbsp;
+
+---
+
+[![](@root_path/public/images/eja-mater-example.png)](@root_path/public/images/eja-mater-example.pdf "Click for full-page PDF")  
+Antonín Dvořák: Eja mater,
+LilyPond's default style.
+
+&nbsp;
+
+---
+
+![](@root_path/public/images/variations-and-theme-4.png)  
+Urs Liska: Dodecaphonic study.  
+Download the five-page PDFs with    
+[LilyPond's default style](@root_path/public/images/variations-and-theme-default.pdf)  
+[House style (work in progress)](@root_path/public/images/variations-and-theme-ue.pdf)
+</div>
