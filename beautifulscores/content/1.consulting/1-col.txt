@@ -42,10 +42,10 @@ Setting up your software systems consists of two independent parts:
   and servers or deciding about creating accounts with external service
   providers is the basis for any additional work. As *all* relevant tools
   are freely available as open source software you won't have to
-  calculate any costs for buying or licensing software.  The tools can also
-  be used on any operating system, so you're not bound to any platform.
+  calculate any costs for buying or licensing software.  The tools run
+  on all major operating systems, so you're not bound to any platform.
 - *Individual Toolkit*  
-  This *can* be a significant portion of work, depending on the
+  This *can* be a significant amount of work, depending on the
   specificity of your applications.  If you're simply going to use
   tools and functionality we have already available it's really not
   more than a matter of software configuration.  
