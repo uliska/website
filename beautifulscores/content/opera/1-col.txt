@@ -1,5 +1,6 @@
 title:Publikationsliste Urs Liska
 -
+content:
 Diese Seite dient lediglich als Informationsquelle im Rahmen meiner Bewerbung
 um eine der ausgeschriebenen Redakteursstellen beim OPERA-Projekt in Frankfurt.
 Sie ist nicht über die Navigationsstruktur der Webseite erreichbar.
