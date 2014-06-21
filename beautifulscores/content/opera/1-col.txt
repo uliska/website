@@ -62,5 +62,4 @@ Verhältnis zu digitalen Editionskonzepten auf, wie es in Bern diskutiert wurde.
 [Commit-Liste](https://github.com/wbsoft/frescobaldi/commits?author=uliska)  
 [Contributor-Liste](https://github.com/wbsoft/frescobaldi/graphs/contributors)
 
-\item \emph{Das Trunkne Lied} (»Crowd Editing«), 06/2013
 
