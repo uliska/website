@@ -1,0 +1,50 @@
+title:Publikationsliste Urs Liska
+-
+content:
+As mentioned elsewhere all our workflows rely on *plain text* and
+*version control*, whether we offer our services as document creators
+or when implementing technology for your editing business.
+On this page you will get a first impression about what that
+actually means.  If you'd like to learn more about it you may
+refer to a post on our blog, presenting an
+[in-depth essay](http://lilypondblog.org/2013/07/plain-text-files-in-music/)
+on the subject.
+
+**Plain text ...**  
+... denotes documents where all contents are stored in human-readable
+form, with clean separation of *content, meaning* and *appearance*.
+Anything the author intends is explicitly written in plain and readable
+form instead of being buried behind intransparent settings and binary
+data.
+Plain text files are - by design - more robust against file corruption,
+data loss or software evolution.  And most notably they are accessible
+to *version control*.
+
+**Version control ...**  
+... is the concept that allows thousands of software developers to seamlessly
+collaborate on small or largescale projects.  You can understand it as an
+infinitely flexible *undo/redo* mechanism and a means to meticulously
+*document* the complete history of a project's development.  Version control
+makes it possible to maintain a project over decades, spanning multiple
+soft- and hardware generations.  Version control enables working on separate
+tasks in parallel, without interfering or losing track.  But above all
+version control makes these incredible collaborative workflows possible.
+
+
+**Programmability ...**  
+... is a generic feature inherent in plain text files.  Plain text files
+can be edited with *any* text editor - and this effectively includes
+any conceivable programming language.  So documents can be processed or
+generated programmatically to a much greater extent than any dedicated
+scripting interface could allow.
+
+While external processing is mostly interesting to project administrators
+(i.e. mainly us) plain text tools offer great flexibility by providing
+means to define *custom commands* and *including* external *files*.  This can
+be used to make global, house or project specific libraries or stylesheets
+available, and to enforce consistent behaviour or appearance between different
+editions.  And it can of course be used to significantly enhance and fine-tune
+the behaviour of the used programs.
+
+Read more about specific examples and applications for LilyPond and LaTeX on
+[Tools](@root_path/tools).
