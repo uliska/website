@@ -1,50 +1,67 @@
 title:Publikationsliste Urs Liska
 -
-content:
-As mentioned elsewhere all our workflows rely on *plain text* and
-*version control*, whether we offer our services as document creators
-or when implementing technology for your editing business.
-On this page you will get a first impression about what that
-actually means.  If you'd like to learn more about it you may
-refer to a post on our blog, presenting an
-[in-depth essay](http://lilypondblog.org/2013/07/plain-text-files-in-music/)
-on the subject.
+Diese Seite dient lediglich als Informationsquelle im Rahmen meiner Bewerbung
+um eine der ausgeschriebenen Redakteursstellen beim OPERA-Projekt in Frankfurt.
+Sie ist nicht über die Navigationsstruktur der Webseite erreichbar.
+Ihr Ziel ist es, Interessierten einen direkten Zugriff auf ausgewählte Texte zu
+gewähren.
+Es handelt sich in der Mehrzahl um Blog-Posts unterschiedlichen Umfangs, in 
+einigen Fällen aber auch um PDF-Dokumente, die ggfs. zum direkten Download
+verlinkt sind.
 
-**Plain text ...**  
-... denotes documents where all contents are stored in human-readable
-form, with clean separation of *content, meaning* and *appearance*.
-Anything the author intends is explicitly written in plain and readable
-form instead of being buried behind intransparent settings and binary
-data.
-Plain text files are - by design - more robust against file corruption,
-data loss or software evolution.  And most notably they are accessible
-to *version control*.
+**Grundlagen zur Verwendung von Reintext-Formaten**
 
-**Version control ...**  
-... is the concept that allows thousands of software developers to seamlessly
-collaborate on small or largescale projects.  You can understand it as an
-infinitely flexible *undo/redo* mechanism and a means to meticulously
-*document* the complete history of a project's development.  Version control
-makes it possible to maintain a project over decades, spanning multiple
-soft- and hardware generations.  Version control enables working on separate
-tasks in parallel, without interfering or losing track.  But above all
-version control makes these incredible collaborative workflows possible.
+- *Engraving in Digital Edition*, 06/2014  
+Überarbeitete Fassung zweier Vorträge, gehalten  bei der Tagung »Digitale
+Musikedition« an der Universität Bern.  Der Text arbeitet explizit das
+Verhältnis zu digitalen Editionskonzepten auf, wie es in Bern diskutiert wurde.  
+[PDF](https://dl.dropboxusercontent.com/u/49478835/engraving-in-digital-edition.pdf)
+- *Reintextbasiertes Arbeiten für Musikwissenschaftler*, 07/2013  
+[Blog-Post](http://lilypondblog.org/2013/07/plain-text-files-in-music/)  
+[Englische Version (PDF)](http://www.openlilylib.org/public/tutorials/plaintext-score-examples.pdf) (Original)  
+[Deutsche Fassung (PDF)](http://openlilylib.org/public/tutorials/plaintextworkflows-de-short.pdf) (Kürzer, auf akademische und institutionelle Nutzung zugeschnitten).	
+
+**Nutzen und Nutzung von Versionskontrolle**
+
+- *Why Use Version Control for Engraving Scores?*,
+  [Blog-Post](http://lilypondblog.org/2014/01/why-use-version-control-for-engraving-scores/) 01/2014
+- *Version Control, Text Quality and Creativity*,
+  [Blog-Post](http://lilypondblog.org/2013/08/version-control-text-quality-and-creativity) 08/2013
+- *Modifying Already Beautified Scores*,
+  [Blog-Post](http://lilypondblog.org/2013/11/modifying-already-beautified-scores) 11/2013
+- *Writing LilyPond Code for Version Control*,
+  [Blog-Post](http://lilypondblog.org/2013/09/write-lilypond-code-for-version-control) 09/2013
+- *Printing Git Versioning Info in a Score*,
+  [Blog-Post](http://lilypondblog.org/2014/04/printing-git-versioning-info-in-a-score/) (und Funktionen in der Bibliothek) 04/2014
 
 
-**Programmability ...**  
-... is a generic feature inherent in plain text files.  Plain text files
-can be edited with *any* text editor - and this effectively includes
-any conceivable programming language.  So documents can be processed or
-generated programmatically to a much greater extent than any dedicated
-scripting interface could allow.
+**LilyPond und LaTeX**
 
-While external processing is mostly interesting to project administrators
-(i.e. mainly us) plain text tools offer great flexibility by providing
-means to define *custom commands* and *including* external *files*.  This can
-be used to make global, house or project specific libraries or stylesheets
-available, and to enforce consistent behaviour or appearance between different
-editions.  And it can of course be used to significantly enhance and fine-tune
-the behaviour of the used programs.
+- *Using LaTeX For a Musical Edition*,
+  [Blog-Post](http://lilypondblog.org/2013/12/using-latex-for-a-musical-edition) 12/2013
+- *“Creating Anything You Imagine with Finale”* und  
+  *Programmatically Generating LilyPond Input*,  
+[Blog-Post 1](http://lilypondblog.org/2013/07/creating-anything-you-can-imagine-with-finale) und
+[Blog-Post 2](http://lilypondblog.org/2013/07/programmatically-generating-lilypond-input) 07/2013
+- *Using Musical Symbols in Text Documents*,
+  [Blog-Post](http://lilypondblog.org/2013/09/using-musical-symbols-in-text-documents) 09/2013
+- *Writing Music Functions* (4 Scheme-Tutorials), 03-04/2014  
+  [1. Folge](http://lilypondblog.org/2014/03/music-functions-1-getting-to-grips-with-scheme-in-lilypond/)
 
-Read more about specific examples and applications for LilyPond and LaTeX on
-[Tools](@root_path/tools).
+**Entwicklung**
+
+- *Preview Mode Preview* (Erweiterung von Frescobaldi),
+  [Blog-Post](http://lilypondblog.org/2013/10/preview-mode-preview) 10/2013
+- *Plaintext “Ecosystem” for Musicological Work*,  
+  Skizzen für gewünschte Weiterentwicklungen, 01/2014,
+  [PDF](http://www.openlilylib.org/public/tutorials/musicology-roadmap.pdf)
+- *lilypond-doc* (Projektskizze), [Wiki](https://github.com/openlilylib/lilypond-doc/wiki)
+- *Frescobaldi Commits* (Liste meiner Beiträge zu 
+[Frescobaldi](http://frescobaldi.org)),  
+[Commit-Liste](https://github.com/wbsoft/frescobaldi/commits?author=uliska)  
+[Contributor-Liste](https://github.com/wbsoft/frescobaldi/graphs/contributors)
+
+\item \emph{Das Trunkne Lied} (»Crowd Editing«), 06/2013
+
+
+>>>>>>> bacd25146259e4c7bd90f4241c328cbbb72befb3
