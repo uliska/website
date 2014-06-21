@@ -63,5 +63,3 @@ Verhältnis zu digitalen Editionskonzepten auf, wie es in Bern diskutiert wurde.
 
 \item \emph{Das Trunkne Lied} (»Crowd Editing«), 06/2013
 
-
->>>>>>> bacd25146259e4c7bd90f4241c328cbbb72befb3
