@@ -1,4 +1,4 @@
-name: openLilyLib
+name: openlilylib
 -
 profession: Open Source Library
 -
